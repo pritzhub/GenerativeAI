@@ -1,0 +1,12 @@
+openai
+python-dotenv
+pypdf
+python-docx
+pandas
+numpy
+pyarrow
+fastparquet
+PyYAML
+
+[dev]
+pytest

@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: project3-llm-rag-assistant
+Version: 0.1.0
+Summary: Profile-aware RAG backend for documents (RFPs, resumes, tech docs, etc.)
+Author: Pritpal Khanuja
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf
+Requires-Dist: python-docx
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pyarrow
+Requires-Dist: fastparquet
+Requires-Dist: PyYAML
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

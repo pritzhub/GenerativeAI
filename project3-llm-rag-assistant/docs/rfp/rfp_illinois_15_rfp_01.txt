@@ -1,0 +1,1358 @@
+
+Page 1
+STATE OF ILLINOIS REQUEST FOR PROPOSAL ILLINOIS POWER AGENCY PROFESSIONAL SERVICES - ELECTRICITY PROCUREMENT PLANNING Reference Number 15-RFP-01
+
+The Illinois Power Agency (“IPA,” “Agency,” or “State”) is issuing this request for proposal (“RFP”) seeking qualified and responsible experts or expert firms (“Offerors”) to assist the Agency with the development of power supply procurement plans. A brief background and description is set forth below, followed by detailed requirements. The Agency welcomes responses from qualified Offerors able and willing to meet these requirements. Only proposals from short-listed respondents to 15-RFQ-01 that successfully passed the review screen provided in 20 ILCS 3855/1-75(a) shall be considered responsive to this RFP.
+
+BACKGROUND: The Agency serves as the procurement authority for electricity delivered to bundled rate customers of Commonwealth Edison (“ComEd”) and Ameren Illinois Company (“Ameren”), per the Illinois Power Agency Act (20 ILCS 3855/1-5 et seq.) and Section 16-111.5 of the Public Utilities Act (220 ILCS 5/16-111.5).¹ The Illinois Power Agency Act states that “The Agency shall each year, as needed, issue a request for qualifications for experts or expert consulting firms to develop the procurement plans in accordance with Section 16-111.5 of the Public Utilities Act.” After the issuance of a request for qualifications (“RFQ”) and a determination of qualified firms, Section 1-75(a)(4) of the Illinois Power Agency Act provides that “The Agency shall issue requests for proposals to the qualified experts or expert consulting firms to develop a procurement plan for the affected utilities...”
+
+After the IPA’s prior issuance of an RFQ, this RFP solicitation represents the second step in the process of retaining an expert or expert consulting firm. If selected through the RFP process, the selected Offeror will be expected to enter into a binding contract with the Agency.
+
+Pursuant to Section 1-25(2) of the Illinois Power Agency Act (20 ILCS 3855/1-25(2)), this solicitation is exempt from the standard procurement process outlined in the Illinois Procurement Code and instead features the “alternative bidding procedures” described under Section 1-75(a) of the IPA Act as authorized by Section 20-10(i) of the Illinois Procurement Code (30 ILCS 500/20-10(i)).
+
+Brief Description: The Agency seeks a power supply procurement planning consultant (“Consultant”). The Consultant will primarily assist the Agency in developing its annual procurement plan as described under Section 1-75(b) of the IPA Act (20 ILCS 3855/1-75(b)). The Agency’s power supply procurement plans outline the procurement of the electricity and renewable energy resources requirements for bundled rate customers of Ameren, ComEd, and any other utilities which may require the services of the Agency. The Consultant, with input from the Agency and or the electric utilities, will be required to complete at least the following tasks.
+
+Analyze the projected balance of supply and demand for eligible retail customers over a 5-year period.
+Identify the wholesale products to be procured following plan approval by the Illinois Commerce Commission.
+¹ The Agency also can serve this function for Illinois utilities with fewer than 100,000 customers upon their request. The IPA understands that MidAmerican Energy may for the first time make this election for the upcoming planning year.
+
+Introduction 15-RFP-01 <page_number>1</page_number>
+
+Page 2
+INTRODUCTION
+Perform hourly load analysis; this analysis includes: (i) Multi-year historical analysis of hourly loads (ii) Switching trends and competitive retail market analysis (iii) Known or projected changes to future loads (iv) Growth forecasts by customer class
+
+Analyze the impact of any demand side and renewable energy initiatives. This analysis includes: (i) The impact of demand response programs and energy efficiency programs, both current and projected (ii) Review of and analysis of Total Resource Cost Test data on potential energy efficiency and demand response programs as provided by the utilities (iii) Supply side needs that are projected to be offset by purchases of renewable energy resources, if any
+
+Develop a plan for meeting the expected load requirements that will not be met through preexisting contracts. This plan includes: (i) Definitions of the different Illinois retail customer classes for which supply is being purchased (ii) The proposed mix of demand-response products for which contracts will be executed during the next year (iii) Monthly forecasted system supply requirements, including expected minimum, maximum, and average values for the planning period (iv) The proposed mix and selection of standard wholesale products for which contracts will be executed during the next year, separately or in combination, to meet that portion of the load requirements not met through pre-existing contracts, including but not limited to monthly 5 x 16 peak period block energy, monthly off-peak wrap energy, monthly 7 x 24 energy, annual 5 x 16 energy, annual off-peak wrap energy, annual 7 x 24 energy, monthly capacity, annual capacity, peak load capacity obligations, capacity purchase plan, and ancillary services (v) Proposed term structures for each wholesale product type included in the proposed procurement plan portfolio of products (vi) An assessment of the price risk, load uncertainty, and other factors that are associated with the proposed procurement plan; this assessment, to the extent possible, includes an analysis of the following factors: contract terms, time frames for securing products or services, fuel costs, weather patterns, transmission costs, market conditions, and the governmental regulatory environment; the proposed procurement plan shall also identify alternatives for those portfolio measures that are identified as having significant price risk.
+
+Pursuant to Section 1-75(c)(5) of the IPA Act, support the development of its *Annual Report on the Cost and Benefits of Renewable Resource Procurements in Illinois.*² By law, this report “shall include, but not necessarily be limited to: (A) a comparison of the costs associated with the Agency's procurement of renewable energy resources to (1) the Agency's costs associated with electricity generated by other types of generation facilities and (2) the benefits associated with the Agency's procurement of renewable energy resources; and (B) an analysis of the rate impacts associated with
+
+² For past reports, see http://www.illinois.gov/ipa/Pages/IPA_Reports.aspx
+
+Introduction 15-RFP-01 <page_number>2</page_number>
+
+Page 3
+INTRODUCTION
+the Illinois Power Agency's procurement of renewable resources, including, but not limited to, any long-term contracts, on the eligible retail customers of electric utilities.”
+
+Provide ad hoc support and deliverables that, from time to time, may be required to assist the Agency in meeting its statutory mission and regulatory requirements, such as reports or updates as may be required by the Illinois General Assembly or through Orders entered by the Illinois Commerce Commission.
+It is expected that the contract resulting from this solicitation with the awarded Offeror shall have an initial term of approximately April 1, 2015 through December 31, 2015, with the possibility for renewal for four additional years.
+
+Please read the entire solicitation and submit a proposal in accordance with the instructions. All forms and signature areas contained in the solicitation must be completed in full and submitted with the price proposal, which combined will constitute the proposal. Do not submit the instructions pages with offers. Offerors should retain the Instructions and a copy of the proposal for future reference.
+
+Introduction 15-RFP-01 <page_number>3</page_number>
+
+Page 4
+SOLICITATION OUTLINE
+SOLICITATION OUTLINE
+Instructions for Submitting Proposal
+How to Enter Information.................................................................................................................. I.1
+Published Procurement Information........................................................................................................ I.2
+Solicitation Contact................................................................................................................................. I.3
+Offeror Questions and Agency Response................................................................................................ I.4
+Submission Due Date, Time, and Address for Submission ..................................................................... I.5
+Instructions for Submission of Proposal................................................................................................... I.6
+Governing Law and Forum .......................................................................................................................... I.7
+Public Records and Requests for Confidential Treatment ....................................................................... I.8
+Reservations ............................................................................................................................................... I.9
+Prequalification to Respond to RFP .......................................................................................................... I.10
+Incorporation of 15-RFP-01 and 15-RFQ-01 by Reference ............................................................................ I.11
+Award .......................................................................................................................................................... I.12
+Evaluation Process...................................................................................................................................... I.13
+Evaluation of Responsiveness..................................................................................................................... I.14
+Evaluation of Responsibility......................................................................................................................... I.15
+Price Evaluation and Selection of Offeror for Contract Award .................................................................. I.16
+Minority, Female, and Persons with Disability Participation and Utilization Plan .................................. I.17
+Subcontracting............................................................................................................................................. I.18
+Employment Tax Credit ............................................................................................................................... I.19
+Section 1 – Proposal Check List
+Check List.............................................................................................................................................. 1.1 - 1.20
+Signature of Authorized Representative ..................................................................................................... 1.21
+Section 2 - Technical Proposal
+Goal........................................................................................................................................................... 2.1
+Expertise, Experience and Services Required.......................................................................................... 2.2
+Milestones and Deliverables....................................................................................................................... 2.3
+Staff Specifications..................................................................................................................................... 2.4
+Where Services Are to Be Performed........................................................................................................ 2.5
+Solicitation Outline 15-RFP-01
+<page_number>4</page_number>
+Page 5
+SOLICITATION OUTLINE
+Offeror Specific Experience, Skills, Qualifications and Approach.................................................... 2.6 Optional - Sample Power Supply Procurement Plan ........................................................................... 2.7 Additional Information .......................................................................................................................... 2.8 Signature of Authorized Representative ................................................................................................... 2.9
+
+Section 3 – Price Proposal
+
+Format of Pricing ................................................................................................................................... 3.1 Price Offer, Preparation of the 2016 Procurement Plan ....................................................................... 3.2 Price Offer, Preparation of the 2016 Annual Report on the Cost and Benefits of Renewable Resource Procurements in Illinois ................................................................. 3.3 Total Price Offer ................................................................................................................................... 3.4 Type of Pricing ...................................................................................................................................... 3.5 Expenses Allowed ................................................................................................................................... 3.6 Discount .................................................................................................................................................. 3.7 Taxes ..................................................................................................................................................... 3.8 Offeror’s Price Offer ............................................................................................................................ 3.9 Signature of Authorized Representative ................................................................................................... 3.10
+
+Solicitation Outline 15-RFP-01
+<page_number>5</page_number>
+Page 6
+INSTRUCTIONS
+INSTRUCTIONS FOR SUBMITTING PROPOSAL
+I.1 HOW TO ENTER INFORMATION: Type information in the text fields provided. Text fields are indicated by the instruction “Click here to enter text.” in red font. If the information requested does not apply to the Offeror, then enter “N/A” into the text field. Please enter the requested information or N/A into every red text field. If appropriate, provide a brief explanation of why the field in not applicable.
+
+I.2 PUBLISHED PROCUREMENT INFORMATION: The Agency will post this solicitation and related documents and announcements to its website (www.illinois.gov/ipa). Procurement information may not be available in any other form or location. Offeror is responsible for monitoring the Bulletin selected by the Agency for this procurement. The Agency will not be held responsible if Offeror fails to receive the optional e-mail notices.
+
+I.3 SOLICITATION CONTACT: The individual listed below shall be the single point of contact for this solicitation. Unless otherwise directed, Offerors should only communicate with the Solicitation Contact. The Agency shall not be held responsible for information provided to or from any other person.
+
+Solicitation Contact: Anthony M. Star	Phone: 312-814-8106
+Agency: Illinois Power Agency	Fax: 312-814-0926
+Street Address: 160 N. LaSalle Street, Suite C-504	TDD: 866-846-5276
+City, State Zip: Chicago, IL 60601	
+Email: anthony.star@illinois.gov	
+Questions or comments regarding this RFP should be timely directed in writing to the Solicitation Contact identified above. Do not discuss the solicitation or any qualification, directly or indirectly, with any State officer or employee other than the Solicitation Contact.
+
+I.4 OFFEROR QUESTIONS AND AGENCY RESPONSE: All questions, other than those raised at any Offeror conference, that pertain to this solicitation must be submitted in written form and submitted to the Solicitation Contact no later than February 11, 2015. Questions received and Agency responses may be posted as an Addendum to the original solicitation on the Bulletin; only these written answers to questions shall be binding on the Agency. Offerors are responsible for monitoring the Bulletin.
+
+I.5 SUBMISSION DUE DATE, TIME, AND ADDRESS FOR SUBMISSION: Proposal shall be directed to the address provided below, and shall be received no later than the Proposal Due Date and Time specified below.
+
+Instructions 15-RFP-01 <page_number>6</page_number>
+
+Page 7
+INSTRUCTIONS
+Proposal Due Date and Time:
+
+Date: March 6, 2015
+
+Time: 5:00 pm CPT
+
+Submit/Deliver Proposals To:
+
+Agency: Illinois Power Agency
+Attn: Anthony M. Star
+Address: 160 N. LaSalle St., Suite C-504
+City, State Zip: Chicago, IL 60601
+Solicitation Title & Reference #
+Request for Proposal - Procurement Planning Consultant, 15-RFP-01
+Offeror Name: ____________
+(Place label containing information above outside of sealed envelope/container)
+
+I.6 INSTRUCTIONS FOR SUBMISSION OF PROPOSAL: A response to this RFP (i.e., the Offeror’s proposal) must be submitted in a single sealed envelope/container clearly labeled with the solicitation title, and Offeror’s name. One signed original and one electronic copy of the proposal package must be provided. The package shall contain the following three sections and attachments:
+
+Section 1 – Proposal Check list
+Section 2 – Technical Proposal
+Section 3 – Price Proposal
+Attachments:
+
+Sample Power Supply Plan (optional)
+AA - State Board of Elections Certificate of Registration
+BB - Authorization to do Business in Illinois
+CC - Illinois Department of Human Rights Public Contracts Number
+DD - State of Illinois Standard Terms and Conditions
+FF - Subcontractor Disclosures form
+GG - Standard Certifications
+HH - Financial Disclosures and Conflicts of Interest
+II - Disclosure of Business Operations with Iran
+JJ - Business and Directory Information
+KK - References
+LL - Solicitation Contract Terms and Conditions Exceptions
+Instructions 15-RFP-01 <page_number>7</page_number>
+
+Page 8
+INSTRUCTIONS
+MM - Taxpayer Identification Number NN - Minorities, Females, and Persons with Disabilities Participation and Utilization Plan. The Utilization Plan and Letter of Intent must be sealed separately within the proposal package.
+
+I.7 GOVERNING LAW AND FORUM: Illinois law and rule govern this solicitation and any resulting contract. Offeror must bring any action relating to this solicitation or any resulting contract in the appropriate court in Illinois. This document contains statutory references designated with “ILCS”. Vendor may view the full text at (www.ilga.gov/legislation/ilcs/ilcs.asp). Section 1-75 of the Illinois Power Agency Act (20 ILCS 3855/1-75) and Section 16-111.5 of the Public Utilities Act (220 ILCS 5/16-111.5) are applicable to this solicitation. See specifically 20 ILCS 3855/1-75(a) and (b) for statutory qualifications and the selection process.
+
+I.8 PUBLIC RECORDS AND REQUESTS FOR CONFIDENTIAL TREATMENT: Proposals become the property of the Agency. Proposals, including late submissions will not be returned. All proposals will be open to the public under the Illinois Freedom of Information Act (FOIA) (5 ILCS 140) and other applicable laws and rules, unless Offeror requests in its proposal that the Agency treat certain information as confidential. A request for confidential treatment will not supersede the State’s legal obligations under FOIA. The Agency will not honor requests to keep entire proposals confidential. Offerors must show the specific grounds in FOIA or other laws or rules that support confidential treatment. Regardless, the Agency will disclose the successful Offeror’s name, and the substance of the proposal upon final contract award. If Offeror requests confidential treatment, Offeror must submit one additional copy of the proposal with proposed confidential information redacted. This redacted copy must describe the general nature of the material removed, and shall retain as much of the proposal as possible. In a separate attachment, Offeror shall supply a listing of the provisions identified by section number for which it seeks confidential treatment and identify the statutory basis under Illinois law and include a detailed justification for exempting the information from public disclosure. Offeror will hold harmless and indemnify the Agency for all costs or damages associated with the Agency defending Offeror’s request for confidential treatment. Offeror agrees the Agency may copy the proposal to facilitate evaluation, or to respond to requests for public records. Offeror warrants that such copying will not violate the rights of any third party.
+
+I.9 RESERVATIONS: Offeror must read and understand the solicitation and tailor the proposal and all activities to ensure compliance. The Agency reserves the right to amend the solicitation, reject any or all proposals, cancel the solicitation, and waive minor defects. The Agency may request a clarification, inspect Offeror’s premises, interview staff, request a presentation, or otherwise verify the contents of the proposal, including information about subcontractors and suppliers. The Agency will make all decisions on compliance, evaluation, terms and conditions, and shall make decisions in the best interests of the Agency and in accordance with rules and other applicable state and federal statutes and regulations. This competitive process may require that Offeror provide additional information and otherwise cooperate with the Agency. If an Offeror does not comply with requests for information and cooperate, the Agency may reject the proposal as non-responsive to the solicitation. Submitting a proposal does not entitle Offeror to an award or a contract. Posting Offeror’s name in a Bulletin notice does not entitle Offeror to a contract. The Agency is not responsible for and will not pay any costs associated with the preparation and submission of any proposal. Short listed Offeror(s) for contract award shall not commence, and will not be paid for any billable work prior to the date all parties
+
+Instructions 15-RFP-01 <page_number>8</page_number>
+
+Page 9
+INSTRUCTIONS
+
+execute the contract, unless approved in writing in advance by the State Purchasing Officer or the Chief Procurement Officer (or designee).
+
+I.10 PREQUALIFICATION TO RESPOND TO RFP: Only Offerors deemed qualified and thus short-listed after the Agency’s review of responses to 15-RFP-01 may respond to this RFP. Short-listed Offerors have been notified by the Agency concurrent with the release of this RFP.
+
+I.11 INCORPORATION OF 15-RFP-01 AND 15-RFQ-01 BY REFERENCE: This Solicitation (15-RFP-01) and associated Offeror’s proposal, and 15-RFQ-01 and associated Offeror’s Submittal of Qualifications, will be incorporated and made part of any subsequent awarded contract by reference.
+
+I.12 AWARD: The Agency is not obligated to award a contract pursuant to this solicitation. This solicitation issuance, selection and award process will follow 20 ILCS 3855/1-75(a). As a result of this solicitation, the Agency may select the winning Offeror based on the winning proposal and, except as provided below, award a contract with an initial term of approximately nine months, with the possibility for annual renewal for four additional full years. If the Agency issues an award, the award will be made to the responsive offeror whose proposal best meets the specified criteria. However, if the Agency does not consider the Offeror’s price and or exceptions to the State of Illinois Solicitation and Contract Terms and Conditions (Attachment DD) to be fair and reasonable and negotiations fail to meet acceptable terms, the Agency reserves the right to cancel the award and take appropriate action to meet the needs of the Agency. The Agency will determine whether the price and terms are fair and reasonable by considering the proposal, including the Offeror’s qualifications, the Offeror’s reputation, all prices and exceptions submitted, the project budget, and other relevant factors. The Agency will post a notice to the Illinois Power Agency web site at www.illinois.gov/IPA identifying the selected Offeror.
+
+I.13 EVALUATION PROCESS: The Agency determines how completely and satisfactorily proposals meet the Responsiveness and Responsibility requirements. The Agency will rank proposals which meet the Responsiveness and Responsibility requirements, from best to least qualified using a point ranking system as an aid in conducting the evaluation. The Agency considers the information provided and the quality of that information when evaluating proposals. If the Agency finds a failure or deficiency, the Agency may reject the proposal or reflect the failure or deficiency in the evaluation.
+
+I.14 EVALUATION OF RESPONSIVENESS: The Agency determines how completely and satisfactorily proposals meet the responsiveness requirements of this Solicitation. The Agency considers the information provided and the quality of that information when evaluating proposals. If the Agency finds a failure or deficiency, the Agency may reject the proposal or reflect the failure or deficiency in the evaluation.
+
+RESPONSIVENESS: A responsive Offeror is one whose proposal conforms in all material respects to this solicitation and includes all required information. The Agency will determine whether the proposal conforms in all material respects to this solicitation. Minor differences or deviations that have negligible impact on the suitability of the Offeror to meet the Agency’s needs may be accepted or corrections allowed. If no Offeror meets a particular requirement, the Agency may waive that requirement. The Agency will determine whether Offeror’s proposal complies with
+
+Instructions 15-RFP-01 <page_number>9</page_number>
+
+Page 10
+INSTRUCTIONS
+
+the instructions for submitting proposals. Except for late submissions, the Agency may require that an Offeror correct deficiencies as a condition of further evaluation.
+
+I.15 EVALUATION OF RESPONSIBILITY: The table below shows elements of responsibility that the Agency will evaluate, their relative weights in point format - the maximum points awarded, and the minimum points needed for each requirement. Failure to obtain the minimum number of points needed in any element of responsibility will automatically disqualify the entire proposal. The maximum total number of points for Responsibility is 925. The resulting total number of points (Offeror Responsibility Points) will be used by the Agency as an input to the evaluation of the Offeror’s proposal, Section I-16 below.
+
+Elements of Responsibility for Evaluation	Maximum Points Awarded	Minimum Points Needed
+1	Ability to perform hourly load analysis; this analysis includes:
+(i) multi-year historical analysis of hourly loads
+(ii) switching trends and competitive retail market analysis
+(iii) known or projected changes to future loads
+(iv) growth forecasts by customer class		75	30
+2	Ability to assess the price risk, load uncertainty, and other factors that are associated with the proposed procurement plan; this assessment, to the extent possible, includes an analysis of the following factors: contract terms, time frames for securing products or services, fuel costs, weather patterns, transmission costs, market conditions, and the governmental regulatory environment; the proposed procurement plan shall also identify alternatives for those portfolio measures that are identified as having significant price risk		100	30
+3	Ability to comprehensively model, simulate and analyze Illinois, regional and national electricity and natural gas markets, including impacts of various generation (renewable and conventional) and load scenarios on Locational Marginal Prices and reliability		50	15
+4	Experience within the past 10 years with PJM and MISO policy development, market operations, modeling, analysis and review, or testimony submitted regarding RTO activities		25	0
+5	Expertise with the incorporation of renewable generation resources into electricity supply portfolios, including the use of distributed renewable generation resources		75	25
+6	Expertise with the determination and incorporation of cost effective energy efficiency programs and measures, and demand response resources into electricity supply portfolios, including the use of RTO-		75	25
+Instructions 15-RFP-01 <page_number>10</page_number>
+
+Page 11
+INSTRUCTIONS
+based compensation programs and Smart Grid technology and expertise with assessing and evaluating Total Resource Cost tests.		
+7	Flexibility and availability to assist the Agency in meeting statutory timing requirements for procurement plans and reports and an ability to provide “on demand” services as required to meet the Agency’s ad hoc requirements to respond to data requests or other filings required during a regulatory proceeding
+
+(Deadlines may require evening and weekend turnaround times.)	75	25
+8	Ability to collaborate with the Agency, other vendors, suppliers, utilities, the ICC and other Illinois stakeholders to successfully develop power supply procurement plans	75	25
+9	Direct Illinois-specific knowledge of electricity retail markets and regulated rates	75	25
+10	Approach to develop the annual Power Supply Procurement Plan and the Annual Report on Cost and Benefits of Renewables; and approach to ensure the quality of services provided to the Agency	100	30
+11	Experience, skills, qualifications, and reputation of the Offeror’s proposed Program Manager	75	40
+12	Experience, skills, qualifications, and reputation of the Offeror’s proposed staff/subcontractors	75	40
+13	Quality and relevance of references submitted (Attachment KK)	25	0
+14	Quality and relevance of sample power supply plan submitted and related responses (Section 2.7)	25	0
+I.16 PRICE EVALUATION AND SELECTION OF OFFEROR FOR CONTRACT AWARD: The Agency also evaluates price using a point system. The maximum number of points for price will be 75 (“Maximum Price Points”). The Agency will determine price points for each Offeror using the following formula:
+
+Offeror Price Points = Maximum Price Points times (Lowest Price divided by Offeror’s Price)
+
+The Offeror Total Points equals the Offeror Responsibility Points (I.15. above) plus Offeror Price Points
+
+Instructions 15-RFP-01 <page_number>11</page_number>
+
+Page 12
+INSTRUCTIONS
+The Offeror with the highest total points will be selected for contract award.
+
+I.17 MINORITIES, FEMALES, AND PERSONS WITH DISABILITIES PARTICIPATION AND UTILIZATION PLAN: This Solicitation contains a goal to include businesses owned and controlled by minorities, females and persons with disabilities in the procurement and contracting processes. Failure to submit a Utilization Plan as instructed in this solicitation may render the offer non-responsive. All questions regarding the subcontracting goal must be directed to the Agency BEP Liaison prior to submission of proposal.
+
+BEP Liaison: Leslie Taylor
+
+Phone Number: (312) 814-4791
+
+Email Address: Leslie.Taylor@illinois.gov
+
+Offerors who submit a proposal in response to this RFP shall not be given a period after the proposal opening date to cure deficiencies in the Utilization Plan unless mandated by federal law or regulation. Businesses included on Utilization Plans as meeting BEP requirements as prime vendors or subcontractors must be certified by CMS as BEP vendors prior to contract award. Go to www.sell2.illinois.gov/bep/Business_Enterprise.htm for complete requirements for BEP certification.
+
+I.18 SUBCONTRACTING: Subcontractors are allowed. For the purposes of this Section, subcontractors are those specifically hired to perform all or part of the work covered by the expected contract. If subcontractors are to be utilized in response to this Solicitation, Offerors must identify subcontractors with an annual value of more than $50,000 and the expected amount of money each will receive under the contract. A Subcontractor Disclosures form is provided in the Solicitation as Attachment FF.
+
+I.19 EMPLOYMENT TAX CREDIT: Offerors who hire qualified veterans and certain ex-offenders may be eligible for tax credits. Reference the Illinois Procurement Code (30 ILCS 500/45-67 & 45-70). Please contact the Illinois Department of Revenue (217-524-4772) for information about tax credits.
+
+Instructions 15-RFP-01 <page_number>12</page_number>
+
+Page 13
+SECTION 1 - PROPOSAL CHECK LIST
+By completing and signing this form, the Offeror makes a proposal to the Agency that the Agency may accept. Offeror should also use this form as a final check to ensure that all required documents are completed and included with the proposal. Offeror must mark each blank below as appropriate. Offeror understands that failure to meet all requirements is cause for disqualification.
+
+Check List:
+
+1.1. SOLICITATION REVIEW: Offeror reviewed the solicitation, including all referenced documents, laws, and instructions, completed all blanks, provided all required information, and demonstrated how it will meet the requirements of the Agency. ☐ Yes ☐ No
+
+1.2. INCORPORATION OF 15-RFP-01 BY REFERENCE: Offeror acknowledges that this solicitation (15-RFP-01) and Offeror’s responses to it will be incorporated and made part of any subsequent contract by reference. ☐ Yes ☐ No
+
+1.3. ADDENDA: Offeror acknowledges receipt of any and all addendums to this solicitation and has taken those into account in making this proposal. ☐ Yes ☐ No
+
+1.4. SUBMISSION OF TECHNICAL PROPOSAL - Section 2: Offeror is submitting a complete and responsive technical proposal, in a properly labeled container, to the correct location, and by the due date and time. ☐ Yes ☐ No
+
+1.5. SUBMISSION OF PRICE PROPOSAL - Section 3: Offeror is submitting a price proposal, in a properly labeled container, to the correct location, and by the due date and time. ☐ Yes ☐ No
+
+1.6. EXPERTISE, EXPERIENCE AND STAFF: Offeror has the required expertise, skill, experience, staff, and ability to meet the requirements of the Agency in Section 2.2 through Section 2.5. ☐ Yes ☐ No
+
+1.7. MILESTONES AND DELIVERABLES: Offeror’s has the capability to meet the agency’s milestones and deliverables requirements in Section 2.3. ☐ Yes ☐ No
+
+1.8. STATE OF ILLINOIS STATE BOARD OF ELECTIONS CERTIFICATION: If required to register, Offeror included a copy of its State Board of Elections Certificate, Attachment AA. ☐ Yes ☐ No ☐ N/A
+
+Proposal Check List 15-RFP-01
+<page_number>13</page_number>
+Page 14
+SECTION 1 - PROPOSAL CHECK LIST
+1.9. STATE OF ILLINOIS AUTHORIZATION TO DO BUSINESS IN ILLINOIS: Offeror included a copy of its Certificate of Good Standing, Attachment BB. ☐ Yes ☐ No ☐ N/A
+
+1.10. STATE OF ILLINOIS DEPARTMENT OF HUMAN RIGHTS PUBLIC CONTRACTS NUMBER: Offeror completed and submitted the applicable IDHR Public Contract Number, Attachment CC. ☐ Yes ☐ No
+
+1.11. STATE OF ILLINOIS STANDARD TERMS AND CONDITIONS: Offeror reviewed the State of Illinois Standard Terms and Conditions, Attachment DD. ☐ Yes ☐ No
+
+1.12. STATE OF ILLINOIS SUBCONTRACTOR DISCLOSURES: Offeror reviewed, completed and signed the Subcontractor Disclosures form, Attachment FF. ☐ Yes ☐ No ☐ N/A
+
+1.13. STATE OF ILLINOIS STANDARD CERTIFICATIONS: Offeror reviewed and signed the State of Illinois Standard Certifications, Attachment GG. ☐ Yes ☐ No
+
+1.14. STATE OF ILLINOIS FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST: Offeror completed, signed and submitted the Financial Disclosures and Conflicts of Interest forms, Attachment HH. ☐ Yes ☐ No
+
+1.15. STATE OF ILLINOIS DISCLOSURE OF BUSINESS OPERATIONS WITH IRAN: Offerors completed and submitted the Disclosure of Business Operations with Iran form, Attachment II. ☐ Yes ☐ No
+
+1.16. STATE OF ILLINOIS BUSINESS AND DIRECTORY INFORMATION: Offeror completed and submitted the Business and Directory Information form, Attachment JJ. ☐ Yes ☐ No
+
+1.17. STATE OF ILLINOIS REFERENCES: Offeror completed and submitted references, Attachment KK. ☐ Yes ☐ No
+
+1.18. STATE OF ILLINOIS SOLICITATION AND CONTRACT TERMS AND CONDITIONS EXCEPTIONS: Offeror completed, signed and submitted the Solicitation and Contract Terms and Conditions Exceptions form, Attachment LL. ☐ Yes ☐ No
+
+1.19. STATE OF ILLINOIS TAXPAYER IDENTIFICATION NUMBER: Offeror completed, signed and submitted the Taxpayer Identification Number form, Attachment MM. ☐ Yes ☐ No
+
+Proposal Check List 15-RFP-01
+<page_number>14</page_number>
+Page 15
+SECTION 1 - PROPOSAL CHECK LIST
+1.20. STATE OF ILLINOIS MINORITY, FEMALE, PERSONS WITH DISABILITIES STATUS PARTICIPATION AND UTILIZATION PLAN: Offeror provided a Participation Plan in accordance with the State of Illinois Minorities, Females and Persons with Disabilities Participation and Utilization Plan, Attachment NN. ☐ Yes ☐ No
+
+1.21. SIGNATURE OF AUTHORIZED REPRESENTATIVE: The undersigned authorized representative of the identified Offeror hereby submits this Proposal Check List in full compliance with this solicitation.
+
+Signature of Authorized Representative: ____________
+
+Printed Name of Signatory: Click here to enter text.
+
+Date: Click here to enter a date.
+
+Proposal Check List 15-RFP-01
+<page_number>15</page_number>
+Page 16
+SECTION 2 - TECHNICAL PROPOSAL
+TECHNICAL PROPOSAL
+2.1. GOAL: The Agency seeks a qualified Consultant. The Consultant will assist the Agency in meeting its mission to develop annual plans for the procurement of adequate, reliable, affordable, efficient and environmentally sustainable electric service at the lowest total cost over time, taking into account any benefits of price stability for the eligible retail customers of Ameren and ComEd and any other utilities which may require the services of the Agency.
+
+2.2. SERVICES REQUIRED: The Consultant with input from the Agency and or the electric utilities will be required to complete the following tasks.
+
+Analyze the projected balance of supply and demand for eligible retail customers over a 5-year period
+Identify the wholesale products to be procured following plan approval by the Illinois Commerce Commission
+Perform hourly load analysis; this analysis includes: (i) Multi-year historical analysis of hourly loads (ii) Switching trends and competitive retail market analysis (iii) Known or projected changes to future loads (iv) Growth forecasts by customer class
+Analyze the impact of any demand side and renewable energy initiatives. This analysis includes: (i) The impact of demand response programs and energy efficiency programs, both current and projected (including, but not limited to, assessing and evaluating Total Resource Cost calculations for potential programs). (ii) Supply side needs that are projected to be offset by purchases of renewable energy resources, if any
+Develop a plan for meeting the expected load requirements that will not be met through preexisting contracts. This plan includes: (i) Definitions of the different Illinois retail customer classes for which supply is being purchased (ii) The proposed mix of demand-response products for which contracts will be executed during the next year (iii) Monthly forecasted system supply requirements, including expected minimum, maximum, and average values for the planning period (iv) The proposed mix and selection of standard wholesale products for which contracts will be executed during the next year, separately or in combination, to meet that portion of the load requirements not met through pre-existing contracts, including but not limited to monthly 5 x 16 peak period block energy, monthly off-peak wrap energy, monthly 7 x 24 energy, annual 5 x 16 energy, annual off-peak wrap energy, annual
+Technical Proposal 15-RFP-01 <page_number>16</page_number>
+
+Page 17
+SECTION 2 - TECHNICAL PROPOSAL
+7 x 24 energy, monthly capacity, annual capacity, peak load capacity obligations, capacity purchase plan, and ancillary services (v) Proposed term structures for each wholesale product type included in the proposed procurement plan portfolio of products (vi) An assessment of the price risk, load uncertainty, and other factors that are associated with the proposed procurement plan; this assessment, to the extent possible, includes an analysis of the following factors: contract terms, time frames for securing products or services, fuel costs, weather patterns, transmission costs, market conditions, and the governmental regulatory environment; the proposed procurement plan shall also identify alternatives for those portfolio measures that are identified as having significant price risk.
+
+Provide ad hoc support and deliverables that, from time to time, may be required to assist the Agency in meeting its statutory mission and regulatory requirements, such as reports or updates as may be required by the Illinois General Assembly or through Orders entered by the Illinois Commerce Commission.
+
+Support the development of the Annual Report on the Cost and Benefits of Renewable Resource Procurements in Illinois. By law, this report “shall include, but not necessarily be limited to: (A) a comparison of the costs associated with the Agency's procurement of renewable energy resources to (1) the Agency's costs associated with electricity generated by other types of generation facilities and (2) the benefits associated with the Agency's procurement of renewable energy resources; and (B) an analysis of the rate impacts associated with the Illinois Power Agency's procurement of renewable resources, including, but not limited to, any long-term contracts, on the eligible retail customers of electric utilities.”
+
+2.3. MILESTONES AND DELIVERABLES: The successful Offeror will be able to assist the Agency to meet the following expected milestones and deliverables:
+
+2.3.1. Submit a draft procurement plan for public comment on or about August 15th of each year based on load forecasts submitted by the utilities on July 15th
+
+2.3.2. Submit a procurement plan to the Illinois Commerce Commission on or about September 30th of each year
+
+2.3.3. Support the Agency as necessary through the procurement plan approval process which starts with the submission of the plan in September and concludes the Illinois Commerce Commission approval in December of the same year
+
+2.3.4. Prepare a draft of the report on the cost and benefits of renewable resource procurement in time for the Agency to finalize and submit to
+
+Technical Proposal 15-RFP-01 <page_number>17</page_number>
+
+Page 18
+SECTION 2 - TECHNICAL PROPOSAL
+the General Assembly and Commerce Commission by April 1st of each year.
+
+2.3.5. Provide ad hoc support and timeline for deliverables as determined by the Agency from time to time
+
+2.4. STAFF SPECIFICATIONS: The Consultant must have adequate staff with the necessary skill and experience to perform the requirements specified in Sections 2.2 and Section 2.3 above in a timely and efficient manner. Using Table 2.4 below, please list the Offeror’s staff member who would assume the role of program manager (or equivalent). Additionally, for each staff member/subcontractor that would be assigned to provide consulting services for the Agency (listed in Section 2.2 above), please provide the expected role, tenure with the Offeror/subcontractor, office location, degree(s) and graduation year, and relevant skill and experience.
+
+Technical Proposal 15-RFP-01 <page_number>18</page_number>
+
+Page 19
+SECTION 2 - TECHNICAL PROPOSAL
+Table 2.4 - Proposed Staff
+Staff/subcontractor Name	Expected Role	Tenure with Offeror / Subcontractor Years	Office Location City/State	Degree(s) and Graduation Year(s)	Relevant Skill and Experience
+Program Manager				
+2.5. WHERE SERVICES ARE TO BE PERFORMED:
+
+All services shall be performed in the United States. The economic impact on Illinois and its residents may be considered in the evaluation. If the Offeror performs the services to be purchased by the Agency hereunder in another country in violation of this provision, such action may be deemed by the Agency as a breach of the contract by Offeror. In the case of a contractor or subcontractor whose normal base of operations is in the United States but is temporarily outside the United States by virtue of personal travel or due to the performance of work for another client, and who while outside the United States under these circumstances also performs work for the Agency, no breach shall be deemed.
+
+2.6. OFFEROR SPECIFIC EXPERIENCE, SKILLS, QUALIFICATIONS AND APPROACH: Please describe how the Offeror's (and/or subcontractor's) experience, skills, qualifications, and approach specifically address each item listed in Table 2.6 below.
+
+Technical Proposal 15-RFP-01
+<page_number>19</page_number>
+Page 20
+SECTION 2 - TECHNICAL PROPOSAL
+Table 2.6 Specific Experience, Skills, Qualifications and Approach
+Specific Experience, Skills, Qualifications and Approach	Explain below how Offeror’s (and or subcontractor’s) experience, skills, qualifications, and approach specifically address each requirement
+1	Ability to perform hourly load analysis; this analysis includes:
+(i) multi-year historical analysis of hourly loads
+(ii) switching trends and competitive retail market analysis
+(iii) known or projected changes to future loads growth forecasts by customer class	Click here to enter text.
+2	Ability to assess the price risk, load uncertainty, and other factors that are associated with the proposed procurement plan; this assessment, to the extent possible, includes an analysis of the following factors: contract terms, time frames for securing products or services, fuel costs, weather patterns, transmission costs, market conditions, and the governmental regulatory environment; the proposed procurement plan shall also identify alternatives for those portfolio measures that are identified as having significant price risk	Click here to enter text.
+3	Ability to comprehensively model, simulate and analyze Illinois, regional and national electricity and natural gas markets, including impacts of various generation (renewable and conventional) and load scenarios on Locational Marginal Prices and reliability	Click here to enter text.
+4	Experience within the past 10 years with PJM and MISO policy development, market operations,	Click here to enter text.
+Technical Proposal 15-RFP-01 <page_number>20</page_number>
+
+Page 21
+SECTION 2 - TECHNICAL PROPOSAL
+modeling, analysis and review, or testimony submitted regarding RTO activities	
+5	Expertise with the incorporation of renewable generation resources into electricity supply portfolios, including the use of distributed renewable generation resources	Click here to enter text.
+6	Expertise with the determination and incorporation of cost effective energy efficiency programs and measures, and demand response resources into electricity supply portfolios, including the use of RTO-based compensation programs and Smart Grid technology, and expertise with assessing and evaluating Total Resource Cost Tests	Click here to enter text.
+7	Flexibility and availability to assist the Agency in meeting statutory timing requirements for procurement plans and reports and an ability to provide “on demand” services as required to meet the Agency’s ad hoc requirements to respond to data requests or other filings required during a regulatory proceeding
+
+(Deadlines may require evening and weekend turnaround times.)	Click here to enter text.
+8	Ability to collaborate with the Agency, other vendors, suppliers, utilities, the ICC and other Illinois stakeholders to successfully develop power supply procurement plans	Click here to enter text.
+9	Direct Illinois-specific knowledge of electricity retail markets and regulated rates	Click here to enter text.
+10	Approach to develop the annual Power Supply Procurement Plan and the Annual Cost and Benefits of Renewables Report; and approach to	Click here to enter text.
+Technical Proposal 15-RFP-01 <page_number>21</page_number>
+
+Page 22
+SECTION 2 - TECHNICAL PROPOSAL
+ensure the quality of services provided to the Agency
+2.7. OPTIONAL - SAMPLE POWER SUPPLY PROCUREMENT PLAN
+To the extent possible, provide as an attachment a non-confidential power supply procurement plan (Sample Plan) developed within the last 10 years by the Offeror, or developed with substantial input from the Offeror, to support the supply and risk management needs of a large retail electricity portfolio. The Sample Plan may be redacted by the Offeror to avoid disclosure of confidential information. The provision of a Sample Plan is optional; however, the Agency will consider the quality of this response in the evaluation of the proposal.
+
+In reference to the Sample Plan, please state below the following:
+
+Specific Offeror’s contribution to the development of the Sample Plan. Click here to enter text.
+List the Offeror’s team members and subcontractors, if any, who contributed to the development of the Sample Plan. Please indicate the name of the Offeror’s program manager responsible for the Sample Plan. Click here to enter text.
+2.8. ADDITIONAL INFORMATION
+Please provide below any additional information which may assist the Agency to assess the Offeror’s background, experience, qualifications. Please limit response to one page.
+
+Click here to enter text.
+
+2.9. SIGNATURE OF AUTHORIZED REPRESENTATIVE
+The undersigned authorized representative of the identified Offeror hereby submits this Technical Proposal in full compliance with this solicitation.
+
+Signature of Authorized Representative: ____________
+
+Printed Name of Signatory: Click here to enter text.
+
+Date: Click here to enter a date.
+
+Technical Proposal 15-RFP-01 <page_number>22</page_number>
+
+Page 23
+SECTION 3 - PRICE PROPOSAL
+
+PRICE PROPOSAL
+3.1. FORMAT OF PRICING: Offeror shall submit pricing in the format shown below, based on the terms and conditions set forth in this RFP. Offeror's price offer shall serve as the basis for negotiation of terms and compensation of the resulting contract. Failure to submit a price offer as shown in this section may render Offeror’s entire offer non-responsive and ineligible for award.
+
+3.2. PRICE OFFER, PREPARATION OF THE 2016 PROCUREMENT PLAN: For price evaluation purposes, assume that the 2016 Procurement Plan will be an updated version of the 2015 plan (http://www.illinois.gov/ipa/Documents/2015%20IPA%20Procurement%20Plan%20for %20filing.pdf). Please provide the estimated price to update the plan accordingly. (Note - during the actual development of the 2016 plan and subsequent plans, each section of the plan will be considered a separate task. The Agency may or may not assign the selected Offeror specific sections of the plan for research and development). Please use the format/templates below, add rows as necessary. Also note that Section 2 of the Plan is prepared by IPA staff and this is not included herein.
+
+Plan Section 1.0 Executive Summary
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Plan Section 3.0 Load Forecasts
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Plan Section 4.0 Existing Resource Portfolio and Supply Gap
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Plan Section 5.0 MISO and PJM Resource Adequacy Outlook and Uncertainty
+Team Member	Billing Rate	Estimated Hours	Estimated Cost
+Price Proposal 15-RFP-01
+
+<page_number>23</page_number>
+
+Page 24
+SECTION 3 - PRICE PROPOSAL
+
+($/Hr.)		(一起)
+Other Cost (please specify)			
+Plan Section 6.0 Managing Supply Risks
+
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Plan Section 7.0 Resource Choices for the 2016 Procurement Plan
+
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Plan Section 8.0 Renewable Resources Availability and Procurement
+
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Plan Section 9.0 Procurement Process Design
+
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+Summary
+
+Plan Section	Estimated Labor Hours	Estimated Labor Cost	Estimated Other Costs	All Estimated Costs
+1.0				
+3.0				
+4.0				
+5.0				
+6.0				
+7.0				
+8.0				
+9.0				
+Subtotal				
+Total Estimated Cost:				$____________
+3.3. PRICE OFFER, PREPARATION OF THE 2016 ANNUAL REPORT ON THE COST AND BENEFITS OF RENEWABLE RESOURCE PROCUREMENTS IN ILLINOIS: For price evaluation purposes, assume that the 2016 Annual Report on the Cost and Benefits of Renewable
+
+Price Proposal 15-RFP-01 <page_number>24</page_number>
+
+Page 25
+SECTION 3 - PRICE PROPOSAL
+Resource Procurements in Illinois will be an updated version of the 2014 report (http://www.illinois.gov/ipa/Documents/IPA-2014-Renewables-Report-3-31-14-final.pdf). Please provide the estimated price to update the report accordingly. (Note - during the actual development of the 2016 report and subsequent reports, each section of the report will be considered a separate task. The Agency may or may not assign the selected Offeror specific sections of the report for research and development). Please use the format/template below, add rows as necessary.
+
+Cost and Benefits of Renewable Resource Procurements Report
+Team Member	Billing Rate ($/Hr.)	Estimated Hours	Estimated Cost ($)
+Other Cost (please specify)			
+3.4. TOTAL PRICE OFFER: Please enter here the sum of the price to develop the annual Power Supply Procurement Plan (Section 3.2) plus the price to develop the Cost and Benefits of Renewable Resource Procurement Report (Section 3.3). Click here to enter text.
+
+Price Proposal 15-RFP-01 <page_number>25</page_number>
+
+Page 26
+SECTION 3 - PRICE PROPOSAL
+3.5. TYPE OF PRICING: The Illinois Office of the Comptroller requires the State to indicate whether the contract pricing is firm or estimated at the time it is submitted for obligation. Pricing pursuant to this solicitation and subsequent contract is estimated.
+
+3.6. EXPENSES ALLOWED: Expenses ☐ are not allowed ☑ are allowed as follows: Only preapproved travel expenses in accordance with the State of Illinois Travel Guide https://www2.illinois.gov/cms/Employees/travel/Pages/default.aspx.
+
+3.7. DISCOUNT: The State may receive a Click here to enter text.% discount for payment within Click here to enter text. days of receipt of correct invoice.
+
+3.8. TAXES: Pricing shall not include any taxes unless accompanied by proof the State is subject to the tax. If necessary, Offeror may request the applicable agency's Illinois tax exemption number and federal tax exemption information.
+
+3.9. OFFEROR'S PRICE OFFER: Attach additional pages if necessary or if the format of pricing specified above in Section 3.1. requires additional pages.
+
+3.9.1. Offeror's Estimated Price for the Initial Term, enter the sum of the Total Estimated Cost in Section 3.2: Click here to enter text.
+
+3.9.2. Renewal Compensation: If the contract is renewed, the price shall be at the same rate as for the initial term unless a different compensation or formula for determining the renewal compensation is stated in this section.
+
+3.9.2.1. Agency Formula for Determining Renewal Compensation: Same rate as for the initial term
+
+3.9.2.2. Offeror's Price for Renewal(s): Click here to enter text.
+
+3.10. SIGNATURE OF AUTHORIZED REPRESENTATIVE
+
+The undersigned authorized representative of the identified Offeror hereby submits this Technical Proposal in full compliance with this solicitation.
+
+Signature of Authorized Representative: ____________
+
+Printed Name of Signatory: Click here to enter text.
+
+Date: Click here to enter a date.
+
+Price Proposal 15-RFP-01 <page_number>26</page_number>
+
+Page 27
+STATE OF ILLINOIS STATE BOARD OF ELECTIONS CERTIFICATE OF REGISTRATION
+
+ATTACHMENT AA
+
+Section 50-37 of the Illinois Procurement Code prohibits certain political contributions of certain vendors, bidders and offerors. While the Procurement Code does not apply to this solicitation, Offeror should be aware of these prohibitions and document with its submission any instances in which political contributions were made that would have violated this Act, if it had been applicable, in the past 5 years. Additionally, section 9-35 of the Illinois Election Code governs provisions relating to reporting and making contributions to state officeholders, declared candidates for State offices and covered political organizations that promote the candidacy of an officeholder or declared candidate for office. The State may declare any resultant contract void if the Illinois Election Code is violated.
+
+Generally, if a vendor, bidder, or offeror is an entity doing business for profit (i.e. sole proprietorship, partnership, corporation, limited liability company or partnership, or otherwise) and has contracts with State agencies that annually total more than $50,000 or who has aggregate pending bids or proposals and current State contracts that total more than $50,000, the vendor, bidder, or offeror is prohibited from making certain political contributions.
+
+If required to register, please include a copy of this certificate with the Offer.
+
+STATE BOARD OF ELECTIONS CERTIFICATE OF REGISTRATION EXAMPLE
+
+<img>Certificate of Registration STATE BOARD OF ELECTIONS Registration No. 138 ABC Corporation 123 Main Street Anywhere, IL 62707 Information for this business last updated on: Wednesday, October 13, 2010 Certificate was generated on Mon October 14, 2018 at 12:30 AM <img>Illinois Secretary of State Seal</img></img>
+
+Attachment AA - State Board of Elections Certificate of Registration <page_number>1</page_number>
+
+Page 28
+STATE OF ILLINOIS AUTHORIZATION TO DO BUSINESS IN ILLINOIS
+
+ATTACHMENT BB
+A “Responsible” Offeror must exist as a legal entity and must be authorized to do business in Illinois at the time a bid or offer is submitted for a State contract. For information on registering to conduct business in Illinois, please contact the Illinois Secretary of State’s Department of Business Services at their website at (http://cyberdriveillinois.com/departments/business_services/home.html). If you believe your company is not required to register to do business in Illinois, please include a detailed explanation of the legal basis for such conclusion. Failure to timely register or provide a legally sufficient justification for not registering may deem your bid non-responsive.
+
+SECRETARY OF STATE CERTIFICATE OF GOOD STANDING EXAMPLE <img>Stamp of Secretary of State of Illinois</img> File Number 776-383-1
+
+To all to whom these Presents Shall Come, Greeting:
+
+I, Jesse White, Secretary of State of the State of Illinois, do hereby certify that
+
+XYZ CONSULTING, INC. INCORPORATED IN GEORGIA AND LICENSED TO TRANSACT BUSINESS IN THIS STATE ON JANUARY 20, 2011, APPEARS TO HAVE COMPLIED WITH ALL THE PROVISIONS OF THE BUSINESS CORPORATION ACT OF THIS STATE RELATING TO THE PAYMENT OF FRANCHISE TAXES AND AS OF THIS DATE IS A FOREIGN CORPORATION IN GOOD STANDING AND AUTHORIZED TO TRANSACT BUSINESS IN THE STATE OF ILLINOIS.
+
+In Testimony Whereof, I hereunto set my hand and cause to be affixed the Great Seal of the State of Illinois, this 7TH day of JUNE A.D. 2011.
+
+<img>Great Seal of the State of Illinois</img> Authorized by: http://cyberdriveillinois.com/
+
+<signature>Jesse White</signature> Secretary of State <page_number>2</page_number>
+
+Attachment BB – Authorization to do Business in Illinois
+
+Page 29
+STATE OF ILLINOIS ILLINOIS DEPARTMENT OF HUMAN RIGHTS PUBLIC CONTRACT NUMBER
+
+ATTACHMENT CC
+
+If Offeror employed fifteen or more full-time employees at any time during the 365-day period immediately preceding the publication of this solicitation in the Illinois Procurement Bulletin (or issuance date if not published), it must have a current IDHR Public Contract Number or have proof of having submitted a completed application for one prior to the Offer opening date. 775 ILCS 5/2-101. If the Agency/University cannot confirm compliance, it will not be able to consider an Offeror’s bid or offer. Please complete the appropriate sections below:
+
+Name of Company (and DBA): Click here to enter text..
+
+☐ (check if applicable) The number is not required as the company has employed 14 or fewer full-time employees during the 365-day period immediately preceding the publication of this solicitation in the Illinois Procurement Bulletin (or issuance date if not published).
+
+IDHR Public Contracts Number: Click here to enter text. Expiration Date: Click here to enter text.
+
+If number has not yet been issued, provide the date a completed application for the number was submitted to IDHR: Click here to enter text..
+
+Upon expiration and until their Contractor Identification Number is renewed, companies will not be eligible to be awarded contracts by the State of Illinois or other jurisdictions that require a current IDHR number as a condition of contract eligibility. 44 ILL. ADMIN. CODE 750.210(a).
+
+Numbers issued by the Department of Human Rights (or its predecessor agency, the Illinois Fair Employment Practices Commission) prior to July 1, 1998 are no longer valid. This affects numbers below 89999-00-0. Valid numbers begin with 900000-00-0.
+
+If Offeror’s organization holds an expired number, it must re-register with the Department of Human Rights.
+
+Offeror may obtain an application form by: 6.1. Telephone: Call the IDHR Public Contracts Unit at (312) 814-2431 between Monday and Friday, 8:30 AM - 5:00 PM, CST. (TDD (312) 263-1579). 6.2. Internet: You may download the form from the Department of Human Rights’ website at (http://www2.illinois.gov/dhr/PublicContracts/Pages/default.aspx). 6.3. Mail: Write to the Department of Human Rights, Public Contracts Unit, 100 West Randolph Street, Suite 10-100, Chicago, IL 60601.
+
+Attachment CC - Illinois Department of Human Rights Public Contract Number <page_number>3</page_number>
+
+Page 30
+STATE OF ILLINOIS STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+TERM AND TERMINATION:
+1.1. CONTRACT TERM: The anticipated contract has an initial term of April 1, 2015 through December 31, 2015. If a start date is not identified, the term shall commence upon the last dated signature of the Parties.
+
+1.1.1. In no event will the total term of the contract, including the initial term, any renewal terms and any extensions, exceed 5 years.
+
+1.1.2. Vendor shall not commence billable work in furtherance of the contract prior to final execution of the contract.
+
+1.2. RENEWAL: Subject to the maximum total term identified above, the State has the option to renew for the following term(s): Annual renewals for up to four (4) additional years, with an end date no later than December 31, 2019.
+
+1.2.1. Pricing for the renewal term, or the formula for determining price, is shown in the pricing section of this contract.
+
+1.2.2. Any renewal is subject to the same terms and conditions as the original contract unless otherwise provided in the pricing section. The State may renew this contract for any or all of the option periods specified, may exercise any of the renewal options early, and may exercise more than one option at a time based on continuing need and favorable market conditions, when in the best interest of the State. The contract may neither renew automatically nor renew solely at the Vendor’s option.
+
+1.3. TERMINATION FOR CAUSE: The State may terminate this contract, in whole or in part, immediately upon notice to the Vendor if: (a) the State determines that the actions or inactions of the Vendor, its agents, employees or subcontractors have caused, or reasonably could cause, jeopardy to health, safety, or property, or (b) the Vendor has notified the State that it is unable or unwilling to perform the contract.
+
+1.3.1. If Vendor fails to perform to the State’s satisfaction any material requirement of this contract, is in violation of a material provision of this contract, or the State determines that the Vendor lacks the financial resources to perform the contract, the State shall provide written notice to the Vendor to cure the problem identified within a specified period of time. If not cured by the specified date, the State may either: (a) immediately terminate the contract without additional written notice or (b) enforce the terms and conditions of the contract.
+
+1.3.2. For termination due to any of the causes contained in this section, the State retains its right to seek any available legal or equitable remedies and damages.
+
+1.4. TERMINATION FOR CONVENIENCE:
+
+Attachment DD - Standard Terms and Conditions <page_number>4</page_number>
+
+Page 31
+STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+1.4.1. This contract is contingent upon and subject to the availability of funds. The State, at its sole option, may terminate or suspend this contract, in whole or in part, without penalty or further payment being required, if the Illinois General Assembly or the federal funding source fails to make an appropriation sufficient to pay such obligation, or if funds needed are insufficient for any reason, including the refusal of utilities, in accordance with 20 ILCS 3855/1-75(g) to reimburse the State for its procurement planning costs associated with work performed.
+
+1.4.2. The State may, for its convenience and with 30 days of prior written notice to Vendor, terminate this contract in whole or in part and without payment of any penalty or incurring any further obligation to the Vendor. The Vendor shall be entitled to compensation upon submission of invoices and proof of claim for supplies and services provided in compliance with this contract up to and including the date of termination.
+
+PAYMENT TERMS AND CONDITIONS:
+2.1. LATE PAYMENT: Payments, including late payment charges, will be paid in accordance with the State Prompt Payment Act and rules when applicable. 30 ILCS 540; 74 ILL. ADM. CODE 900. This shall be Vendor’s sole remedy for late payments by the State. Payment terms contained on Vendor’s invoices shall have no force and effect.
+
+2.2. EXPENSES: The State will not pay for supplies provided or services rendered, including related expenses, incurred prior to the execution of this contract by the Parties even if the effective date of the contract is prior to execution.
+
+2.3. PREVAILING WAGE: As a condition of receiving payment Vendor must (i) be in compliance with the contract, (ii) pay its employees prevailing wages when required by law, (iii) pay its suppliers and subcontractors according to the terms of their respective contracts, and (iv) provide lien waivers to the State upon request. Examples of prevailing wage categories include public works, printing, janitorial, window washing, building and grounds services, site technician services, natural resource services, security guard and food services. The prevailing wages are revised by the Department of Labor and are available on the Department’s official website, which shall be deemed proper notification of any rate changes under this subsection. Vendor is responsible for contacting the Illinois Department of Labor to ensure understanding of prevailing wage requirements at 217-782-6206 or http://www.state.il.us/agency/idol/index.htm).
+
+2.4. FEDERAL FUNDING: This contract may be partially or totally funded with Federal funds. If federal funds are expected to be used, then the percentage of the good/service paid using Federal funds and the total Federal funds expected to be used will be provided to the awarded Vendor in the notice of intent to award.
+
+2.5. INVOICING: By submitting an invoice, Vendor certifies that the supplies or services provided meet all requirements of the contract, and the amount billed and expenses incurred are as allowed in the contract. Invoices for supplies purchased, services
+
+Attachment DD - Standard Terms and Conditions <page_number>5</page_number>
+
+Page 32
+STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+performed and expenses incurred through June 30 of any year must be submitted to the State no later than July 31 of that year; otherwise Vendor may be required to seek payment through the Illinois Court of Claims. 30 ILCS 105/25. All invoices are subject to statutory offset. 30 ILCS 210.
+
+2.5.1. Vendor shall not bill for any taxes unless accompanied by proof that the State is subject to the tax. If necessary, Vendor may request the Agency’s Illinois tax exemption number and federal tax exemption information.
+
+2.5.2. Vendor shall invoice at the completion of the contract unless invoicing is tied in the contract to milestones, deliverables, or other invoicing requirements agreed to in the contract.
+
+Send invoices to:
+
+Agency:	Illinois Power Agency
+Attn:	Accounts Payable
+Address:	160 N. LaSalle St., Suite C-504
+City, State Zip	Chicago, IL 60601
+ASSIGNMENT: This contract may not be assigned or transferred in whole or in part by Vendor without the prior written consent of the State.
+
+SUBCONTRACTING: For purposes of this section, subcontractors are those specifically hired to perform all or part of the work covered by the contract. Vendor must receive prior written approval before use of any subcontractors in the performance of this contract. Vendor shall describe, in an attachment if not already provided, the names and addresses of all authorized subcontractors to be utilized by Vendor in the performance of this contract, together with a description of the work to be performed by the subcontractor and the anticipated dollar value or % of awarded contract revenue that each subcontractor is expected to receive pursuant to this contract. If required, Vendor shall provide a copy of any subcontracts within 15 days after execution of this contract. Vendor shall notify the State of any additional or substitute subcontractors hired during the term of this contract. If required, Vendor shall provide to the State a copy of all such subcontracts within 15 days after execution of the subcontract. All subcontracts must include the same certifications that Vendor must make as a condition of this contract. Vendor shall include in each subcontract the subcontractor certifications as shown on the Standard Subcontractor Certification form available from the State. If at any time during the term of the Contract, Vendor adds or changes any subcontractors, Vendor must promptly notify, by written amendment to the Contract, the State of the names and addresses and the expected amount of money that each new or replaced subcontractor will receive pursuant to the Contract.
+
+AUDIT/RETENTION OF RECORDS: Vendor and its subcontractors shall maintain books and records relating to the performance of the contract or subcontract and necessary to support amounts charged to the State pursuant the contract or subcontract. Books and records,
+
+Attachment DD - Standard Terms and Conditions <page_number>6</page_number>
+
+Page 33
+STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+including information stored in databases or other computer systems, shall be maintained by the Vendor for a period of three years from the later of the date of final payment under the contract or completion of the contract, and by the subcontractor for a period of three years from the later of final payment under the term or completion of the subcontract. If federal funds are used to pay contract costs, the Vendor and its subcontractors must retain its records for five years. Books and records required to be maintained under this section shall be available for review or audit by representatives of: the Agency/University, the Auditor General, the Executive Inspector General, State of Illinois internal auditors or other governmental entities with monitoring authority, upon reasonable notice and during normal business hours. Vendor and its subcontractors shall cooperate fully with any such audit and with any investigation conducted by any of these entities. Failure to maintain books and records required by this section shall establish a presumption in favor of the State for the recovery of any funds paid by the State under the contract for which adequate books and records are not available to support the purported disbursement. The Vendor or subcontractors shall not impose a charge for audit or examination of the Vendor’s books and records.
+
+TIME IS OF THE ESSENCE: Time is of the essence with respect to Vendor’s performance of this contract. Vendor shall continue to perform its obligations while any dispute concerning the contract is being resolved unless otherwise directed by the State.
+
+NO WAIVER OF RIGHTS: Except as specifically waived in writing, failure by a Party to exercise or enforce a right does not waive that Party’s right to exercise or enforce that or other rights in the future.
+
+FORCE MAJEURE: Failure by either Party to perform its duties and obligations will be excused by unforeseeable circumstances beyond its reasonable control and not due to its negligence including acts of nature, acts of terrorism, riots, labor disputes, fire, flood, explosion, and governmental prohibition. The non-declaring Party may cancel the contract without penalty if performance does not resume within 30 days after the declaration.
+
+CONFIDENTIAL INFORMATION: Each Party, including its agents and subcontractors, to this contract may have or gain access to confidential data or information owned or maintained by the other Party in the course of carrying out its responsibilities under this contract. Vendor shall presume all information received from the State or to which it gains access pursuant to this contract is confidential. Vendor information, unless clearly marked as confidential and exempt from disclosure under the Illinois Freedom of Information Act, shall be considered public. No confidential data collected, maintained, or used in the course of performance of the contract shall be disseminated except as authorized by law and with the written consent of the disclosing Party, either during the period of the contract or thereafter. The receiving Party must return any and all data collected, maintained, created or used in the course of the performance of the contract, in whatever form it is maintained, promptly at the end of the contract, or earlier at the request of the disclosing Party, or notify the disclosing Party in writing of its destruction. The foregoing obligations shall not apply to confidential data or information lawfully in the receiving Party’s possession prior to its acquisition from the disclosing Party that were received in good faith from a third-party not subject to any confidentiality obligation to the disclosing Party; that is now or later becomes publicly known through no breach of confidentiality obligation by the receiving Party; or is independently developed by the receiving Party without the use or benefit of the disclosing Party’s confidential information.
+
+Attachment DD - Standard Terms and Conditions <page_number>7</page_number>
+
+Page 34
+STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+USE AND OWNERSHIP: All work performed or supplies created by Vendor under this contract, whether written documents or data, goods or deliverables of any kind, shall be deemed work-for-hire under copyright law and all intellectual property and other laws, and the State of Illinois is granted sole and exclusive ownership to all such work, unless otherwise agreed in writing. Vendor hereby assigns to the State all right, title, and interest in and to such work including any related intellectual property rights, and waives any and all claims that Vendor may have to such work including any so-called "moral rights" in connection with the work. Vendor acknowledges the State may use the work product for any purpose. Confidential data or information contained in such work shall be subject to confidentiality provisions of this contract.
+
+INDEMNIFICATION AND LIABILITY: The Vendor shall indemnify and hold harmless the State of Illinois, its agencies, officers, employees, agents and volunteers from any and all costs, demands, expenses, losses, claims, damages, liabilities, settlements and judgments, including in-house and contracted attorneys' fees and expenses, arising out of: (a) any breach or violation by Vendor of any of its certifications, representations, warranties, covenants or agreements; (b) any actual or alleged death or injury to any person, damage to any property or any other damage or loss claimed to result in whole or in part from Vendor's negligent performance; or (c) any act, activity or omission of Vendor or any of its employees, representatives, subcontractors or agents. Neither Party shall be liable for incidental, special, consequential or punitive damages.
+
+INSURANCE: Vendor shall, at all times during the term and any renewals, maintain and provide a Certificate of Insurance naming the State as additional insured for all required bonds and insurance. Certificates may not be modified or canceled until at least 30 days notice has been provided to the State. Vendor shall provide: (a) General Commercial Liability-occurrence form in amount of $1,000,000 per occurrence (Combined Single Limit Bodily Injury and Property Damage) and $2,000,000 Annual Aggregate; (b) Auto Liability, including Hired Auto and Non-owned Auto, (Combined Single Limit Bodily Injury and Property Damage) in amount of $1,000,000 per occurrence; and (c) Worker's Compensation Insurance in amount required by law. Insurance shall not limit Vendor's obligation to indemnify, defend, or settle any claims.
+
+INDEPENDENT CONTRACTOR: Vendor shall act as an independent contractor and not an agent or employee of, or joint venture with the State. All payments by the State shall be made on the basis of Vendor being an independent contractor of or joint venture with the State.
+
+SOLICITATION AND EMPLOYMENT: Vendor shall not employ any person employed by the State during the term of this contract to perform any work under this contract. Vendor shall give notice immediately to the Agency's director if Vendor solicits or intends to solicit State employees to perform any work under this contract.
+
+COMPLIANCE WITH THE LAW: The Vendor, its employees, agents, and subcontractors shall comply with all applicable federal, state, and local laws, rules, ordinances, regulations, orders, federal circulars and all license and permit requirements in the performance of this contract. Vendor shall be in compliance with applicable tax requirements and shall be current in payment of such taxes. Vendor shall obtain at its own expense, all licenses and permissions necessary for the performance of this contract.
+
+BACKGROUND CHECK: Whenever the State deems it reasonably necessary for security reasons, the State may conduct, at its expense, criminal and driver history background checks of Vendor's
+
+Attachment DD - Standard Terms and Conditions <page_number>8</page_number>
+
+Page 35
+STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+and subcontractor’s officers, employees or agents. Vendor or subcontractor shall reassign immediately any such individual who, in the opinion of the State, does not pass the background checks.
+
+APPLICABLE LAW: This contract shall be construed in accordance with and is subject to the laws and rules of the State of Illinois. The Department of Human Rights’ Equal Opportunity requirements are incorporated by reference. 44 ILL. ADMIN. CODE 750. Any claim against the State arising out of this contract must be filed exclusively with the Illinois Court of Claims. 705 ILCS 505/1. The State shall not enter into binding arbitration to resolve any contract dispute. The State of Illinois does not waive sovereign immunity by entering into this contract. The official text of cited statutes is incorporated by reference. An unofficial version can be viewed at (www.ilga.gov/legislation/ilcs/ilcs.asp).
+
+ANTI-TRUST ASSIGNMENT: If Vendor does not pursue any claim or cause of action it has arising under federal or state antitrust laws relating to the subject matter of the contract, then upon request of the Illinois Attorney General, Vendor shall assign to the State rights, title and interest in and to the claim or cause of action.
+
+CONTRACTUAL AUTHORITY: The Agency/University that signs for the State of Illinois shall be the only State entity responsible for performance and payment under the contract.
+
+NOTICES: Notices and other communications provided for herein shall be given in writing by registered or certified mail with return receipt requested, by received hand delivery, by courier (UPS, Federal Express or other similar and reliable carrier), by e-mail, or by fax showing the date and time of successful receipt. Notices shall be sent to the individuals who signed the contract using the contact information following the signatures. Each such notice shall be deemed to have been provided at the time it is actually received. By giving notice, either Party may change the contact information.
+
+MODIFICATIONS AND SURVIVAL: Amendments, modifications and waivers must be in writing and signed by authorized representatives of the Parties. Any provision of this contract officially declared void, unenforceable, or against public policy, shall be ignored and the remaining provisions shall be interpreted, to the extent possible, to give effect to the Parties’ intent. All provisions that by their nature would be expected to survive, shall survive termination. In the event of a conflict between the State’s and the Vendor’s terms, conditions and attachments, the State’s terms, conditions and attachments shall prevail.
+
+PERFORMANCE RECORD/SUSPENSION: Upon request of the State, Vendor shall meet to discuss performance or provide contract performance updates to help ensure proper performance of the contract. The State may consider Vendor’s performance under this contract and compliance with law and rule to determine whether to continue the contract, whether to suspend Vendor from doing future business with the State for a specified period of time, or to determine whether Vendor can be considered responsible on specific future contract opportunities.
+
+FREEDOM OF INFORMATION ACT: This contract and all related public records maintained by, provided to, or required to be provided to the State are subject to the Illinois Freedom of Information Act notwithstanding any provision to the contrary that may be found in this contract. 5 ILCS 140.
+
+Attachment DD - Standard Terms and Conditions <page_number>9</page_number>
+
+Page 36
+STANDARD TERMS AND CONDITIONS
+
+ATTACHMENT DD
+
+SCHEDULE OF WORK: Any work performed on State premises shall be done during the hours designated by the State and performed in a manner that does not interfere with the State and its personnel.
+
+WARRANTIES FOR SUPPLIES AND SERVICES
+
+25.1. Vendor warrants that the supplies furnished under this contract will: (a) conform to the standards, specifications, drawings, samples or descriptions furnished by the State or furnished by the Vendor and agreed to by the State, including but not limited to all specifications attached as exhibits hereto; (b) be merchantable, of good quality and workmanship, and free from defects for a period of twelve months or longer if so specified in writing, and fit and sufficient for the intended use; (c) comply with all federal and state laws, regulations, and ordinances pertaining to the manufacturing, packing, labeling, sale, and delivery of the supplies; (d) be of good title and be free and clear of all liens and encumbrances and; (e) not infringe any patent, copyright or other intellectual property rights of any third party. Vendor agrees to reimburse the State for any losses, costs, damages or expenses, including without limitation, reasonable attorney’s fees and expenses arising from failure of the supplies to meet such warranties.
+
+25.2. Vendor shall insure that all manufacturers’ warranties are transferred to the State and shall provide a copy of the warranty. These warranties shall be in addition to all other warranties, express, implied, or statutory, and shall survive the State’s payment, acceptance, inspection, or failure to inspect the supplies.
+
+25.3. Vendor warrants that all services will be performed to meet the requirements of the contract in an efficient and effective manner by trained and competent personnel. Vendor shall monitor performances of each individual and shall reassign immediately any individual who does not perform in accordance with the contract, who is disruptive or not respectful of others in the workplace, or who in any way violates the contract or State policies.
+
+REPORTING, STATUS AND MONITORING SPECIFICATIONS:
+
+26.1. Vendor shall immediately notify the State of any event that may have a material impact on Vendor’s ability to perform the contract.
+
+26.2. By August 31 of each year, Vendor shall report to the Agency or University the number of qualified veterans and certain ex-offenders hired during Vendor’s last completed fiscal year. Vendor may be entitled to employment tax credit for hiring individuals in those groups. 35 ILCS 5/216, 5/217.
+
+EMPLOYMENT TAX CREDIT: Vendors who hire qualified veterans and certain ex-offenders may be eligible for tax credits. 30 ILCS 500/45-67 and 45-70. Please contact the Illinois Department of Revenue (telephone #: 217-524-4772) for information about tax credits.
+
+Attachment DD - Standard Terms and Conditions <page_number>10</page_number>
+
+Page 37
+STATE OF ILLINOIS SUBCONTRACTOR DISCLOSURES
+
+ATTACHMENT FF
+
+Will subcontractors be utilized? ☐ Yes ☐ No
+
+Please identify below the names and addresses of all subcontractors that will be utilized in the performance of this Contract with a total value of $50,000 or more, a description of the work to be performed by the subcontractor, and the anticipated % of the awarded contract value to the extent the information is known that each subcontractor is expected to receive pursuant to the Contract.
+
+Subcontractor Name: Click here to enter text. Anticipated/Estimated Amount to Be Paid: Click here to enter text. Address: Click here to enter text. Description of work: Click here to enter text.
+
+Subcontractor Name: Click here to enter text. Anticipated/Estimated Amount to Be Paid: Click here to enter text. Address: Click here to enter text. Description of Work: Click here to enter text.
+
+If additional space is necessary to provide subcontractor information, please attach an additional page. All subcontracts must include the Subcontractor Standard Certifications and the Disclosures and Conflicts of Interest, completed and signed by the subcontractor.
+
+All subcontracts over $50,000 must include the same certifications that Vendor must make as a condition of the contract. Vendor shall include in each subcontract the subcontractor certifications as shown on the Standard Subcontractor Certification form available from the State.
+Attachment FF – Subcontractor Disclosures <page_number>11</page_number>
+
+Page 38
+STATE OF ILLINOIS STANDARD CERTIFICATIONS
+
+ATTACHMENT GG Vendor acknowledges and agrees that compliance with this subsection in its entirety for the term of the contract and any renewals is a material requirement and condition of this contract. By executing this contract Vendor certifies compliance with this subsection in its entirety, and is under a continuing obligation to remain in compliance and report any non-compliance.
+
+This subsection, in its entirety, applies to subcontractors used on this contract. Vendor shall include these Standard Certifications in any subcontract used in the performance of the contract using the Standard Subcontractor Certification form provided by the State.
+
+If this contract extends over multiple fiscal years, including the initial term and all renewals, Vendor and its subcontractors shall confirm compliance with this section in the manner and format determined by the State by the date specified by the State and in no event later than July 1 of each year that this contract remains in effect.
+
+If the Parties determine that any certification in this section is not applicable to this contract it may be stricken without affecting the remaining subsections.
+
+As part of each certification, Vendor acknowledges and agrees that should Vendor or its subcontractors provide false information, or fail to be or remain in compliance with the Standard Certification requirements, one or more of the following sanctions will apply:
+
+the contract may be void by operation of law,
+the State may void the contract, and
+the Vendor and it subcontractors may be subject to one or more of the following: suspension, debarment, denial of payment, civil fine, or criminal penalty. Identifying a sanction or failing to identify a sanction in relation to any of the specific certifications does not waive imposition of other sanctions or preclude application of sanctions not specifically identified.
+Vendor certifies it and its employees will comply with applicable provisions of the United States Civil Rights Act, Section 504 of the Federal Rehabilitation Act, the Americans with Disabilities Act, and applicable rules in performance of this contract.
+
+Vendor, if an individual, sole proprietor, partner or an individual as member of a LLC, certifies he/she is not in default on an educational loan. 5 ILCS 385/3.
+
+Vendor, if an individual, sole proprietor, partner or an individual as member of a LLC, certifies it he/she has not received (i) an early retirement incentive prior to 1993 under Section 14-108.3 or 16-133.3 of the Illinois Pension Code or (ii) an early retirement incentive on or after 2002 under Section 14-108.3 or 16-133.3 of the Illinois Pension Code. 30 ILCS 105/15a; 40 ILCS 5/14-108.3; 40 ILCS 5/16-133.
+
+Vendor certifies that it is a legal entity authorized to do business in Illinois prior to submission of a bid, offer, or proposal.
+
+Attachment GG - Standard Certifications <page_number>12</page_number>
+
+Page 39
+STANDARD CERTIFICATIONS
+
+ATTACHMENT GG
+
+To the extent there was a current Vendor providing the services covered by this contract and the employees of that Vendor who provided those services are covered by a collective bargaining agreement, Vendor certifies (i) that it will offer to assume the collective bargaining obligations of the prior employer, including any existing collective bargaining agreement with the bargaining representative of any existing collective bargaining unit or units performing substantially similar work to the services covered by the contract subject to its bid or offer; and (ii) that it shall offer employment to all employees currently employed in any existing bargaining unit who perform substantially similar work to the work that will be performed pursuant to this contract. This does not apply to heating, air conditioning, plumbing and electrical service contracts.
+
+Vendor certifies it has neither been convicted of bribing or attempting to bribe an officer or employee of the State of Illinois or any other State, nor made an admission of guilt of such conduct that is a matter of record.
+
+If Vendor has been convicted of a felony, Vendor certifies at least five years have passed after the date of completion of the sentence for such felony, unless no person held responsible by a prosecutor’s office for the facts upon which the conviction was based continues to have any involvement with the business.
+
+If Vendor or any officer, director, partner, or other managerial agent of Vendor has been convicted of a felony under the Sarbanes-Oxley Act of 2002, or a Class 3 or Class 2 felony under the Illinois Securities Law of 1953, Vendor certifies at least five years have passed since the date of the conviction. Vendor further certifies that it is not barred from being awarded a contract and acknowledges that the State shall declare the contract void if this certification is false.
+
+Vendor certifies it is not barred from having a contract with the State based on violating the prohibition on providing assistance to the state in identifying a need for a contract (except as part of a public request for information process) or by reviewing, drafting or preparing solicitation or similar documents for the State.
+
+Vendor certifies that it and its affiliates are not delinquent in the payment of any debt to the State (or if delinquent has entered into a deferred payment plan to pay the debt), and Vendor and its affiliates acknowledge the State may declare the contract void if this certification is false or if Vendor or an affiliate later becomes delinquent and has not entered into a deferred payment plan to pay off the debt.
+
+Vendor certifies that it and all affiliates shall collect and remit Illinois Use Tax on all sales of tangible personal property into the State of Illinois in accordance with provisions of the Illinois Use Tax Act and acknowledges that failure to comply may result in the contract being declared void.
+
+Vendor certifies that it has not been found by a court or the Pollution Control Board to have committed a willful or knowing violation of the Environmental Protection Act within the last five years, and is therefore not barred from being awarded a contract.
+
+Vendor certifies it has neither paid any money or valuable thing to induce any person to refrain from bidding on a State contract, nor accepted any money or other valuable thing, or acted upon the promise of same, for not bidding on a State contract.
+
+Attachment GG - Standard Certifications <page_number>13</page_number>
+
+Page 40
+STANDARD CERTIFICATIONS
+
+ATTACHMENT GG
+
+15.	Vendor certifies it is not in violation of the “Revolving Door” provisions of the Illinois Procurement Code.
+16.	Vendor certifies that it has not retained a person or entity to attempt to influence the outcome of a procurement decision for compensation contingent in whole or in part upon the decision or procurement.
+17.	Vendor certifies it will report to the Illinois Attorney General and the Chief Procurement Officer any suspected collusion or other anti-competitive practice among any bidders, Offerors, contractors, proposers, or employees of the State.
+18.	Vendor certifies steel products used or supplied in the performance of a contract for public works shall be manufactured or produced in the United States, unless the executive head of the procuring Agency/University grants an exception. 30 ILCS 565.
+19.	Drug Free Workplace
+19.1.	If Vendor employs 25 or more employees and this contract is worth more than $5,000, Vendor certifies it will provide a drug free workplace pursuant to the Drug Free Workplace Act.
+19.2.	If Vendor is an individual and this contract is worth more than $5000, Vendor certifies it shall not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance during the performance of the contract. 30 ILCS 580.
+20.	Vendor certifies that neither Vendor nor any substantially owned affiliate is participating or shall participate in an international boycott in violation of the U.S. Export Administration Act of 1979 or the applicable regulations of the United States. Department of Commerce. 30 ILCS 582.
+21.	Vendor certifies it has not been convicted of the offense of bid rigging or bid rotating or any similar offense of any state or of the United States. 720 ILCS 5/33 E-3, E-4.
+22.	Vendor certifies it complies with the Illinois Department of Human Rights Act and rules applicable to public contracts, which include providing equal employment opportunity, refraining from unlawful discrimination, and having written sexual harassment policies. 775 ILCS 5/2-105.
+23.	Vendor certifies it does not pay dues to or reimburse or subsidize payments by its employees for any dues or fees to any “discriminatory club.” 775 ILCS 25/2.
+24.	Vendor certifies that no foreign-made equipment, materials, or supplies furnished to the State under the contract have been or will be produced in whole or in part by forced labor or indentured labor under penal sanction. 30 ILCS 583.
+25.	Vendor certifies that no foreign-made equipment, materials, or supplies furnished to the State under the contract have been produced in whole or in part by the labor or any child under the age of 12. 30 ILCS 584.
+Attachment GG - Standard Certifications <page_number>14</page_number>
+
+Page 41
+STANDARD CERTIFICATIONS
+
+ATTACHMENT GG
+
+Vendor certifies that any violation of the Lead Poisoning Prevention Act, as it applies to owners of residential buildings, has been mitigated. 410 ILCS 45.
+
+Vendor warrants and certifies that it and, to the best of its knowledge, its subcontractors have and will comply with Executive Order No. 1 (2007). The Order generally prohibits Vendors and subcontractors from hiring the then-serving Governor’s family members to lobby procurement activities of the State, or any other unit of government in Illinois including local governments if that procurement may result in a contract valued at over $25,000. This prohibition also applies to hiring for that same purpose any former State employee who had procurement authority at any time during the one-year period preceding the procurement lobbying activity.
+
+Vendor certifies that information technology, including electronic information, software, systems and equipment, developed or provided under this contract comply with the applicable requirements of the Illinois Information Technology Accessibility Act Standards as published at (www.dhs.state.il.us/iitaa) 30 ILCS 587.
+
+Name of Certifying Vendor Click here to enter text.
+
+Signature: ____________
+
+Date: Click here to enter text.
+
+Printed Name: Click here to enter text.
+
+Title: Click here to enter text.
+
+Phone Number: Click here to enter text.
+
+Email Address: Click here to enter text.
+
+Attachment GG – Standard Certifications <page_number>15</page_number>
+
+Page 42
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+Financial Disclosures and Conflicts of Interest forms ("forms") must be accurately completed and submitted by the vendor, any parent entity(ies) and any subcontractors. There are nine steps to this form and each must be completed as instructed in the step heading, unless otherwise provided. A bid, offer, or proposal that does not include this form shall be considered not responsive. The State/Public University will consider this form when evaluating the bid, offer, or proposal or awarding the contract.
+
+The requirement of disclosure of financial interests and conflicts of interest is a continuing obligation. If circumstances change and the previously submitted form is no longer accurate, disclosing entities must provide an updated form.
+
+Separate forms are required for the vendor, any parent entity(ies) and any subcontractors.
+
+Subcontractor forms must be provided with a copy of the subcontract, if required, within 15 days after execution of the State/Public University contract or after execution of the subcontract, whichever is later, for all subcontracts with an annual value of more than $50,000.
+
+This disclosure is submitted for:
+
+☐ Vendor
+
+☐ Vendor's Parent Entity(ies) (100% ownership)
+
+☐ Subcontractor(s) >$50,000
+
+☐ Subcontractor's Parent Entity(ies) > $50,000
+
+Project Name and Illinois Procurement Bulletin Number	Click here to enter text.
+Vendor Name	Click here to enter text.
+Doing Business As (DBA)	Click here to enter text.
+Parent Entity	Click here to enter text.
+Subcontractor	Click here to enter text.
+Instrument of Ownership or Beneficial Interest	Choose an item. ☐ If you selected Other, please describe: Click here to enter text.
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>16</page_number>
+
+Page 43
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+
+STEP 1
+SUPPORTING DOCUMENTATION SUBMITTAL
+(All vendors complete regardless of annual bid, offer, or contract value) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+You must select one of the six options below and select the documentation you are submitting. You must provide the documentation the applicable section requires with this form.
+
+☐ Option 1 – Publicly Traded Entities 1.A. ☐ I will complete Step 2, Option A for each qualifying individual or entity holding any ownership or distributive income share in excess of 5% or an amount greater than 60% ($106,447.20) of the annual salary of the Governor. OR 1.B. ☐ I will attach a copy of the Federal 10-K, and I will skip to Step 3.
+
+☐ Option 2 – Privately Held Entities with more than 200 Shareholders 2.A. ☐ I will complete Step 2, Option A for each qualifying individual or entity holding any ownership or distributive income share in excess of 5% or an amount greater than 60% ($106,447.20) of the annual salary of the Governor. OR 2.B. ☐ I will complete Step 2, Option A each qualifying individual or entity holding any ownership share in excess of 5% and will attach the information Federal 10-K reporting companies are required to report under 17 CFR 229.401.
+
+☐ Option 3 – All other Privately Held Entities, not including Sole Proprietorships 3.A. ☐ I will complete Step 2, Option A for each qualifying individual or entity holding any ownership or distributive income share in excess of 5% or an amount greater than 60% ($106,447.20) of the annual salary of the Governor.
+
+☐ Option 4 – Foreign Entities 4.A. ☐ I will complete Step 2, Option A for each qualifying individual or entity holding any ownership or distributive income share in excess of 5% or an amount greater than 60% ($106,447.20) of the annual salary of the Governor. OR 4.B. ☐ I will attach a copy of the Securities Exchange Commission Form 20-F or 40-F, and I will skip to Step 3.
+
+☐ Option 5 – Not-for-Profit Entities ☐ I will complete Step 2, Option B.
+
+☐ Option 6 – Sole Proprietorships ☐ I will skip to Step 3.
+
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>17</page_number>
+
+Page 44
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+
+STEP 2
+DISCLOSURE OF FINANCIAL INTEREST OR BOARD OF DIRECTORS
+(All vendors, except sole proprietorships, must complete regardless of annual bid, offer, or contract value)
+
+(Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+Complete either Option A (for all entities other than not-for-profits) or Option B (for not-for-profits). Additional rows may be inserted into the tables or an attachment may be provided if needed.
+
+OPTION A - Ownership Share and Distributive Income
+Ownership Share - If you selected Option 1.A., 2.A., 2.B., 3.A. or 4A. in Step 1, provide the name and address of each individual and entity and their percentage of ownership if said percentage exceeds 5%, or the dollar value of their ownership if said dollar value exceeds $106,447.20.
+
+☐ Check here if including an attachment with requested information in a format substantially similar to the format below.
+
+TABLE - X
+Name	Address	% of Ownership	$ Value of Ownership
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Distributive Income - If you selected Option 1.A., 2.A., 3.A., or 4A. in Step 1, provide the name and address of each individual and their percentage of the disclosing vendor's total distributive income if said percentage exceeds 5% of the total distributive income of the disclosing entity, or the dollar value of their distributive income if said dollar value exceeds $106,447.20.
+
+☐ Check here if including an attachment with requested information in a format substantially similar to the format below.
+
+TABLE - Y
+Name	Address	% of Distributive	$ Value of Distributive
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>18</page_number>
+
+Page 45
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Attachment HH – Financial Disclosures and Conflicts of Interest <page_number>19</page_number>
+
+Page 46
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+Please certify that the following statements are true.
+
+I have disclosed all individuals or entities that hold an ownership interest of greater than 5% or greater than $106,447.20.
+
+☐ Yes ☐ No
+
+I have disclosed all individuals or entities that were entitled to receive distributive income in an amount greater than $106,447.20 or greater than 5% of the total distributive income of the disclosing entity.
+
+☐ Yes ☐ No
+
+OPTION B – Disclosure of Board of Directors (Not-for-Profits)
+If you selected Option 5 in Step 1, list members of your board of directors. Please include an attachment if necessary.
+
+TABLE - Z	
+Name	Address
+Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.
+Click here to enter text.	Click here to enter text.
+STEP 3
+DISCLOSURE OF LOBBYIST OR AGENT
+(Complete only if bid, offer, or contract has an annual value over $25,000) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+☐ Yes ☐ No. Is your company represented by or do you employ a lobbyist or other agent required to register under the Lobbyist Registration Act (lobbyist must be registered pursuant to the Act with the Secretary of State) or other agent who is not identified through Step 2, Option A above and who has communicated, is communicating, or may communicate with any State/Public University officer or employee concerning the bid or offer? If yes, please identify each lobbyist and agent, including the name and address below.
+
+Attachment HH – Financial Disclosures and Conflicts of Interest <page_number>20</page_number>
+
+Page 47
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+
+Name	Address	Relationship to Disclosing Entity
+Click here to enter text.	Click here to enter text.	Click here to enter text.
+Describe all costs/fees/compensation/reimbursements related to the assistance provided by each representative lobbyist or other agent to obtain a State/Public University contract: Click here to enter text.
+
+Attachment HH – Financial Disclosures and Conflicts of Interest <page_number>21</page_number>
+
+Page 48
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+
+STEP 4
+PROHIBITED CONFLICTS OF INTEREST
+(All vendors must complete regardless of annual bid, offer, or contract value) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+Step 4 must be completed for each person disclosed in Step 2, Option A and for sole proprietors identified in Step 1, Option 6 above. Please provide the name of the person for which responses are provided: Click here to enter text.
+
+1.	Do you hold or are you the spouse or minor child of any person who holds an elective office in the State of Illinois or hold a seat in the General Assembly?	☐ Yes ☐ No
+2.	Have you, your spouse, or minor child been appointed to or employed in any offices or agencies of State government and receive compensation for such employment in excess of 60% ($106,447.20) of the salary of the Governor?	☐ Yes ☐ No
+3.	Are you or are you the spouse or minor child of an officer or employee of the Capital Development Board or the Illinois Toll Highway Authority?	☐ Yes ☐ No
+4.	Have you, your spouse, or an immediate family member who lives in your residence currently or who lived in your residence within the last 12 months been appointed as a member of a board, commission, authority, or task force authorized or created by State law or by executive order of the Governor?	☐ Yes ☐ No
+5.	If you answered yes to any question in 1-4 above, please answer the following: Do you, your spouse, or minor child receive from the vendor more than 7.5% of the vendor’s total distributable income or an amount of distributable income in excess of the salary of the Governor ($177,412.00)?	☐ Yes ☐ No
+6.	If you answered yes to any question in 1-4 above, please answer the following: Is there a combined interest of self with spouse or minor child more than 15% ($354,824.00) in the aggregate of the vendor’s distributable income or an amount of distributable income in excess of two times the salary of the Governor?	☐ Yes ☐ No
+STEP 5
+POTENTIAL CONFLICTS OF INTEREST RELATING TO PERSONAL RELATIONSHIPS
+(Complete only if bid, offer, or contract has an annual value over $25,000) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+Step 5 must be completed for each person disclosed in Step 2, Option A and for sole proprietors identified in Step 1, Option 6 above.
+
+Please provide the name of the person for which responses are provided: Click here to enter text.
+
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>22</page_number>
+
+Page 49
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+1.	Do you currently have, or in the previous 3 years have you had State employment, including contractual employment of services?	☐ Yes ☐ No
+2.	Has your spouse, father, mother, son, or daughter, had State employment, including contractual employment for services, in the previous 2 years?	☐ Yes ☐ No
+3.	Do you hold currently or have you held in the previous 3 years elective office of the State of Illinois, the government of the United States, or any unit of local government authorized by the Constitution of the State of Illinois or the statutes of the State of Illinois?	☐ Yes ☐ No
+4.	Do you have a relationship to anyone (spouse, father, mother, son, or daughter) holding elective office currently or in the previous 2 years?	☐ Yes ☐ No
+5.	Do you hold or have you held in the previous 3 years any appointive government office of the State of Illinois, the United States of America, or any unit of local government authorized by the Constitution of the State of Illinois or the statutes of the State of Illinois, which office entitles the holder to compensation in excess of expenses incurred in the discharge of that?	☐ Yes ☐ No
+6.	Do you have a relationship to anyone (spouse, father, mother, son, or daughter) holding appointive office currently or in the previous 2 years?	☐ Yes ☐ No
+7.	Do you currently have or in the previous 3 years had employment as or by any registered lobbyist of the State government?	☐ Yes ☐ No
+8.	Do you currently have or in the previous 2 years had a relationship to anyone (spouse, father, mother, son, or daughter) that is or was a registered lobbyist?	☐ Yes ☐ No
+9.	Do you currently have or in the previous 3 years had compensated employment by any registered election or re-election committee registered with the Secretary of State or any county clerk in the State of Illinois, or any political action committee registered with either the Secretary of State or the Federal Board of Elections?	☐ Yes ☐ No
+10.	Do you currently have or in the previous 2 years had a relationship to anyone (spouse, father, mother, son, or daughter) who is or was a compensated employee of any registered election or reelection committee registered with the Secretary of State or any county clerk in the State of Illinois, or any political action committee registered with either the Secretary of State or the Federal Board of Elections?	☐ Yes ☐ No
+STEP 6
+EXPLANATION OF AFFIRMATIVE RESPONSES
+(All vendors must complete regardless of annual bid, offer, or contract value) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+If you answered “Yes” in Step 4 or Step 5, please provide on an additional page a detailed explanation that includes, but is not limited to the name, salary, State agency or university, and position title of each individual.
+
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>23</page_number>
+
+Page 50
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+STEP 7
+POTENTIAL CONFLICTS OF INTEREST RELATING TO DEBARMENT & LEGAL PROCEEDINGS
+(Complete only if bid, offer, or contract has an annual value over $25,000) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+This step must be completed for each person disclosed through Step 2 and Step 3, and for each entity and sole proprietor disclosed in Step 1.
+
+Please provide the name of the person or entity for which responses are provided: Click here to enter text.
+
+1.	Within the previous ten years, have you had debarment from contracting with any governmental entity?	☐ Yes ☐ No
+2.	Within the previous ten years, have you had any professional licensure discipline?	☐ Yes ☐ No
+3.	Within the previous ten years, have you had any bankruptcies?	☐ Yes ☐ No
+4.	Within the previous ten years, have you had any adverse civil judgments and administrative findings?	☐ Yes ☐ No
+5.	Within the previous ten years, have you had any criminal felony convictions?	☐ Yes ☐ No
+If you answered “Yes”, please provide a detailed explanation that includes, but is not limited to the name, State agency or university, and position title of each individual. Click here to enter text.
+
+STEP 8
+DISCLOSURE OF CURRENT AND PENDING CONTRACTS
+(Complete only if bid, offer, or contract has an annual value over $25,000) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>24</page_number>
+
+Page 51
+FINANCIAL DISCLOSURES AND CONFLICTS OF INTEREST
+ATTACHMENT HH
+If you selected Option 1, 2, 3, 4 or 6 in Step 1, do you have any contracts, pending contracts, bids, proposals, or other ongoing procurement relationships with units of State of Illinois government?
+
+☐ Yes ☐ No.
+
+If “Yes”, please specify below. Attach an additional page in the same format as provided below, if desired.
+
+Agency/University	Project Title	Status	Value	Contract Reference/P.O./Illinois Procurement Bulletin #
+Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.	Click here to enter text.
+Please explain the procurement relationship: Click here to enter text.
+
+STEP 9
+SIGN THE DISCLOSURE
+(All vendors must complete regardless of annual bid, offer, or contract value) (Subcontractors with subcontract annual value of more than $50,000 must complete)
+
+This disclosure is signed, and made under penalty of perjury for all for-profit entities, by an authorized officer or employee on behalf of the bidder or offeror pursuant to IPA’s requirements. This disclosure information is submitted on behalf of:
+
+Name of Disclosing Entity: Click here to enter text.
+
+Signature: ____________ Date: Click here to enter text.
+
+Printed Name: Click here to enter text.
+
+Title: Click here to enter text.
+
+Phone Number: Click here to enter text.
+
+Email Address: Click here to enter text.
+
+Attachment HH - Financial Disclosures and Conflicts of Interest <page_number>25</page_number>
+
+Page 52
+STATE OF ILLINOIS DISCLOSURE OF BUSINESS OPERATIONS WITH IRAN
+
+ATTACHMENT II Each bid, offer, or proposal submitted for a State contract, other than a small purchase defined in Section 20-20 of the Illinois Procurement Code, shall include a disclosure of whether or not the bidder, offeror, or proposing entity, or any of its corporate parents or subsidiaries, within the 24 months before submission of the bid, offer, or proposal had business operations that involved contracts with or provision of supplies or services to the Government of Iran, companies in which the Government of Iran has any direct or indirect equity share, consortiums or projects commissioned by the Government of Iran and:
+
+more than 10% of the company’s revenues produced in or assets located in Iran involve oil-related activities or mineral-extraction activities; less than 75% of the company’s revenues produced in or assets located in Iran involve contracts with or provision of oil-related or mineral – extraction products or services to the Government of Iran or a project or consortium created exclusively by that Government; and the company has failed to take substantial action; or
+the company has, on or after August 5, 1996, made an investment of $20 million or more, or any combination of investments of at least $10 million each that in the aggregate equals or exceeds $20 million in any 12- month period that directly or significantly contributes to the enhancement of Iran’s ability to develop petroleum resources of Iran.
+A bid, offer, or proposal that does not include this disclosure shall not be considered responsive. We may consider this disclosure when evaluating the bid, offer, or proposal or awarding the contract.
+
+☐ There are no business operations that must be disclosed to comply with the above cited law. ☐ The following business operations are disclosed to comply with the above cited law:
+
+Click here to enter text.
+
+Attachment II - Disclosure of Business Operations in Iran <page_number>26</page_number>
+
+Page 53
+STATE OF ILLINOIS BUSINESS AND DIRECTORY INFORMATION
+
+ATTACHMENT JJ
+
+Name of Business (official name and DBA) Click here to enter text.
+
+Business Headquarters (address, phone and fax) Click here to enter text. Click here to enter text. Click here to enter text.
+
+If a Division or Subsidiary of another organization provide the name and address of the parent Click here to enter text.
+
+Billing Address Click here to enter text. Click here to enter text.
+
+Name of Chief Executive Officer Click here to enter text.
+
+Offeror Contact (name, title, address, phone, toll-free number, fax, and e-mail) Click here to enter text. Click here to enter text. Click here to enter text. Click here to enter text. Click here to enter text.
+
+Attachment JJ – Business and Directory Information <page_number>27</page_number>
+
+Page 54
+BUSINESS AND DIRECTORY INFORMATION
+ATTACHMENT JJ
+
+Company Web Site Address Click here to enter text.
+
+Type of Organization (sole proprietor, corporation, etc.--should be same as on Taxpayer ID form below Click here to enter text.
+
+Length of time in business Click here to enter text.
+
+Annual Sales for Offeror's most recently completed fiscal year Click here to enter text.
+
+Show number of full-time employees, on average, during the most recent fiscal year Click here to enter text.
+
+Is your company at least 51% owned and controlled by individuals in one of the following categories? If "Yes," please check the category that applies:
+
+12.1 Minority (30 ILCS 575/2(A)(1) & (3))	☐ Yes
+12.2 Female (30 ILCS 575/2(A)(2) & (4))	☐ Yes
+12.3 Person with Disability (30 ILCS 575/2(A)(2.05) & (2.1))	☐ Yes
+12.4 Disadvantaged (49 CFR 6)	☐ Yes
+12.5 Veteran (30 ILCS 500/45-57)	☐ Yes
+12.6 Small Business (30 ILCS 500/45-45)	☐ Yes
+Attachment JJ – Business and Directory Information <page_number>28</page_number>
+
+Page 55
+REFERENCES
+ATTACHMENT KK
+Provide references from established firms or government agencies other than the procuring agency/university that can attest to Offeror's experience and ability to perform the contract that is the subject of this solicitation.
+
+Firm/Government Agency/University (name): Click here to enter text. Contact Person (name, email address, address, and phone): Click here to enter text. Date of Supplies/Services Provided: Click here to enter text. Type of Supplies/Services Provided: Click here to enter text.
+
+Firm/Government Agency/University (name): Click here to enter text. Contact Person (name, email address, address, and phone): Click here to enter text. Date of Supplies/Services Provided: Click here to enter text. Type of Supplies/Services Provided: Click here to enter text.
+
+Firm/Government Agency/University (name): Click here to enter text. Contact Person (name, email address, address, and phone): Click here to enter text. Date of Supplies/Services Provided: Click here to enter text. Type of Supplies/Services Provided: Click here to enter text.
+
+Firm/Government Agency/University (name): Click here to enter text. Contact Person (name, email address, address, and phone): Click here to enter text. Date of Supplies/Services Provided: Click here to enter text. Type of Supplies/Services Provided: Click here to enter text.
+
+Offeror Name: Click here to enter text. Return Mailing Address: Click here to enter text.
+
+Attachment KK - References <page_number>29</page_number>
+
+Page 56
+SOLICITATION AND CONTRACT TERMS AND CONDITIONS EXCEPTIONS
+ATTACHMENT LL
+
+Click here to enter text. agrees with the terms and conditions set forth in the State of Illinois Request for Qualifications (Reference Number: 14-RFQ-01), including the standard terms and conditions, and certifications, with the following exceptions:
+
+Excluding certifications required by statute to be made by the Offeror, both Parties agree that all of the duties and obligations that the Offeror owes to Agency/University for the work performed shall be pursuant to the solicitation, resulting contract, and Offeror’s exceptions accepted by the State thereto as set forth below.
+Section/ Subsection #	STANDARD TERMS AND CONDITIONS - State the exception such as “add,” “replace,” and/or “delete.”
+Page 57
+STATE OF ILLINOIS TAXPAYER IDENTIFICATION NUMBER
+
+ATTACHMENT MM I certify that:
+
+The number shown on this form is my correct taxpayer identification number (or I am waiting for a number to be issued to me), and
+
+I am not subject to backup withholding because: (a) I am exempt from backup withholding, or (b) I have not been notified by the Internal Revenue Service (IRS) that I am subject to backup withholding as a result of a failure to report all interest or dividends, or (c) the IRS has notified me that I am no longer subject to backup withholding, and
+
+I am a U.S. person (including a U.S. resident alien).
+
+If you are an individual, enter your name and SSN as it appears on your Social Security Card.
+If you are a sole proprietor, enter the owner's name on the name line followed by the name of the business and the owner's SSN or EIN.
+If you are a single-member LLC that is disregarded as an entity separate from its owner, enter the owner's name on the name line and the D/B/A on the business name line and enter the owner's SSN or EIN.
+If the LLC is a corporation or partnership, enter the entity's business name and EIN and for corporations, attach IRS acceptance letter (CP261 or CP277).
+For all other entities, enter the name of the entity as used to apply for the entity's EIN and the EIN.
+Name: Click here to enter text. Business Name: Click here to enter text. Taxpayer Identification Number: Social Security Number: Click here to enter text.or Employer Identification Number: Click here to enter text.
+
+Legal Status (check one): ☐ Individual ☐ Sole Proprietor ☐ Partnership ☐ Legal Services Corporation ☐ Tax-exempt ☐ Corporation providing or billing medical and/or health care services ☐ Corporation NOT providing or billing medical and/or health care services ☐ Governmental ☐ Nonresident alien ☐ Estate or trust ☐ Pharmacy (Non-Corp.) ☐ Pharmacy/Funeral Home/Cemetery (Corp.) ☐ Limited Liability Company (select applicable tax classification) ☐ D = disregarded entity ☐ C = corporation ☐ P = partnership
+
+Signature of Authorized Representative: ____________
+
+Date: Click here to enter a date.
+
+Attachment MM - Taxpayer Identification Number <page_number>31</page_number>
+
+Page 58
+STATE OF ILLINOIS
+
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+The Business Enterprise Program Act for Minorities, Females and Persons with Disabilities (BEP) (30 ILCS 575) establishes a goal for contracting with businesses that have been certified as owned and controlled by persons who are minority, female or who have disabilities.
+
+Contract Goal to be achieved by the Vendor: This contract includes a specific Business Enterprise Program (BEP) utilization goal of 20% of the contract amount and is based on the availability of certified vendors to perform the anticipated direct subcontracting opportunities of this contract. In addition to the other award criteria established for this contract, the Agency/University will award this contract to a Vendor that meets the goal or makes good faith efforts to meet the goal. This goal is also applicable to change orders and allowances within the scope of work provided by the certified vendor.
+
+Following are guidelines for the Vendor’s response in the Utilization Plan. A format for the utilization plan is included in this section. Vendor should include any additional information that will add clarity to the Vendor’s proposed utilization of certified vendors to meet the targeted goal. The Utilization Plan must demonstrate that the Vendor has either met the contract goal or that it has made good faith efforts to do so.
+
+At the time of proposal submission, the Certified Vendor may not yet be certified with CMS Business Enterprise Program; however, the Certified Vendor must meet the eligibility requirements and be fully certified in the BEP Program before contract award. Visit (www.sell2.illinois.gov/bep/Business_Enterprise.htm) for complete requirements and to apply for certification in the Business Enterprise Program. Vendors who submit bids or proposals for State contracts shall not be given a period after the bid or proposal is submitted to cure deficiencies in the Utilization Plan and the Letter of intent, unless mandated by federal law or regulation (30 ILCS 575(4)(c).
+
+If applicable, the Plan should include an executed Joint Venture agreement specifying the terms and conditions of the relationship between the partners and their relationship and responsibilities to the contract. The joint venture agreement must clearly evidence that the certified vendor will be responsible for a clearly defined portion of the work and that its responsibilities, risks, profits and contributions of capital and personnel are proportionate to its ownership percentage. It must include specific details related to the parties’ contributions of capital, personnel and equipment and share of the costs of insurance and other items; the scopes to be performed by the certified vendor’s own forces and under its supervision; and the commitment of management, supervisory personnel and operative personnel employed by the certified vendor to be dedicated to the performance of the contract. Each joint venture partner must execute the proposal to the Agency.
+
+An agreement between a Vendor and a certified vendor in which the certified vendor promises not to provide subcontracting quotations to other vendors is prohibited. The Agency may request additional information to demonstrate compliance. The Vendor agrees to cooperate promptly with the Agency in submitting to interviews, allowing entry to places of business, providing further documentation, or soliciting the cooperation of a proposed certified vendor. Failure to cooperate may render the proposal non-responsive. The contract will not be finally awarded until the Vendor’s Utilization Plan is approved.
+
+Attachment NN – Minority, Female, and Persons with Disability Participation and Utilization Plan <page_number>32</page_number>
+
+Page 59
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+Certified Vendor Locator References: Vendors may consult CMS' BEP Certified Vendor Directory at (www.sell2.illinois.gov/bep/Small_and_Diverse_Businesses.htm), as well as the directories of other certifying agencies but subcontracting vendors must be certified by CMS as BEP vendors before the time of contract award.
+
+Vendor Assurance: The Vendor shall not discriminate on the basis of race, color, national origin, sexual orientation or sex in the performance of this contract. Failure by the Vendor to carry out these requirements is a material breach of this contract, which may result in the termination of this contract or such other remedy, as the Agency deems appropriate. This assurance must be included in each subcontract that the Vendor signs with a subcontractor or supplier.
+
+Calculating Certified Vendor Participation: The Utilization Plan documents work anticipated to be performed by all certified vendors and paid for upon satisfactory completion. Only the value of payments made for the work actually performed by certified BEP vendors is counted toward the contract goal. Counting guidelines are summarized below:
+
+6.14. The value of the work actually performed by the certified vendor's forces shall be counted towards the goal. The entire amount of that portion of the contract that is performed by the certified vendor's forces, including supplies purchased or equipment leased by the BEP vendor shall be counted, except supplies purchased and equipment rented from the Vendor.
+
+6.15. A joint venture shall count the portion of the total dollar value of the contract equal to the distinct, clearly defined portion of the work of the contract that the certified vendor performs with its forces toward the goal. A joint venture shall also count the dollar value of work subcontracted to other certified vendors. Work performed by the forces of a non-certified joint venture partner shall not be counted toward the goal.
+
+6.16. When a certified vendor subcontracts part of the work of its contract to another firm, the value of the subcontracted work shall be counted toward the contract goal only if the certified vendor's subcontractor is a certified vendor. Work that a certified vendor subcontracts to a non-certified vendor will not count towards the goal.
+
+6.17. A Vendor shall count towards the goal 100% of its expenditures for materials and supplies required under the contract and obtained from a certified vendor manufacturer, regular dealer or supplier.
+
+6.18. A Vendor shall count towards the goal the following expenditures to certified vendors that are not manufacturers, regular dealers or suppliers:
+
+6.18.1. The fees or commissions charged for providing a bona fide service, such as professional, technical, consultant or managerial services and assistance in the procurement of essential personnel, facilities, equipment, materials or supplies required for performance of the contract, provided that the fee or commission is determined by the Agency to be reasonable and not excessive as compared with fees customarily allowed for similar services.
+
+Attachment NN - Minority, Female, Persons with Disability Participation and Utilization Plan <page_number>33</page_number>
+
+Page 60
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+6.18.2. The fees charged for delivery of materials and supplies required by the contract (but not the cost of the materials and supplies themselves) when the hauler, trucker, or delivery service is not also the manufacturer of or a regular dealer in the materials and supplies, provided that the fee is determined by the Agency to be reasonable and not excessive as compared with fees customarily allowed for similar services. The certified vendor trucking firm must be responsible for the management and supervision of the entire trucking operation for which it is responsible on the contract, and must itself own and operate at least one fully licensed, insured and operational truck used on the contract.
+
+6.18.3. The fees or commissions charged for providing any bonds or insurance specifically required for the performance of the contract, provided that the fee or commission is determined by the Agency to be reasonable and not excessive as compared with fees customarily allowed for similar services.
+
+6.19. A Vendor shall count towards the goal only expenditures to firms that perform a commercially useful function in the work of the contract.
+
+6.19.1. A firm is considered to perform a commercially useful function when it is responsible for execution of a distinct element of the work of a contract and carries out its responsibilities by actually performing, managing, and supervising the work involved. The certified vendor must also be responsible, with respect to materials or supplies used on the contract, for negotiating price, determining quality and quantity, ordering the materials or supplies, and installing the materials (where applicable) and paying for the material or supplies. To determine whether a firm is performing a commercially useful function, the Agency shall evaluate the amount of work subcontracted, whether the amount the firm is to be paid under the contract is commensurate with the work it is actually performing and the credit claimed for its performance of the work, industry practices, and other relevant factors.
+
+6.19.2. A certified vendor does not perform a commercially useful function if its role is limited to that of an extra participant in a transaction or contract through which funds are passed in order to obtain certified vendor participation. In determining whether a certified vendor is such an extra participant, the Agency shall examine similar transactions, particularly those in which certified vendors do not participate, and industry practices.
+
+6.20. A Vendor shall not count towards the goal expenditures that are not direct, necessary and proximately related to the work of the contract. Only the amount of services or goods that are directly attributable to the performance of the contract shall be counted. Ineligible expenditures include general office overhead or other Vendor support activities.
+
+Good Faith Effort Procedures: If the Vendor cannot meet the goal, the Vendor must document in the Utilization Plan its good faith efforts that could reasonably have been expected to meet the goal. Vendors must submit utilization forms that meet or exceed the published goal or
+Attachment NN - Minority, Female, Persons with Disability Participation and Utilization Plan <page_number>34</page_number>
+
+Page 61
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+submit utilization forms that describe a percentage participation that is less than the goal and submit documentation regarding good faith efforts at the time of bid/proposal submission. Vendors will not be permitted to correct goal deficiencies post bid/proposal due dates. The Agency will consider the quality, quantity, and intensity of the Vendor's efforts.
+
+7.14. The following is a list of types of action that the Agency will consider as evidence of the Vendor's good faith efforts to meet the goal. Other factors or efforts brought to the attention of the Agency may be relevant in appropriate cases.
+
+7.14.1. Soliciting through all reasonable and available means (e.g., attendance at pre-bid meetings, advertising and/or written notices) the interest of all certified vendors that have the capability to perform the work of the contract. The Vendor must solicit this interest within sufficient time to allow the certified vendors to respond to the solicitation. The Vendor must determine with certainty if the certified vendors are interested by taking appropriate steps to follow up initial solicitations and encourage them to bid. The Vendor must provide interested certified vendors with adequate information about the plans, specifications, and requirements of the contract in a timely manner to assist them in responding promptly to the solicitation.
+
+7.14.2. Selecting portions of the work to be performed by certified vendors in order to increase the likelihood that the goal will be achieved. This includes, where appropriate, breaking out contract work items into economically feasible units to facilitate certified vendor participation, even when the Vendor might otherwise prefer to perform these work items with its own forces.
+
+7.14.3. Making a portion of the work available to certified vendors and selecting those portions of the work or material needs consistent with their availability, so as to facilitate certified vendor participation.
+
+7.14.4. Negotiating in good faith with interested certified vendors. Evidence of such negotiation includes the names, addresses, and telephone numbers of certified vendors that were considered; a description of the information provided regarding the plans and specifications for the work selected for subcontracting and evidence as to why additional agreements could not be reached for certified vendors to perform the work. A Vendor using good business judgment will consider a number of factors in negotiating with certified vendors and will take a firm’s price and capabilities into consideration. The fact that there may be some additional costs involved in finding and using certified vendors is not in itself sufficient reason for a Vendor’s failure to meet the goal, as long as such costs are reasonable. Vendors are not required to accept higher quotes from certified vendors if the price difference is excessive or unreasonable.
+
+7.14.5. Thoroughly investigating the capabilities of certified vendors and not rejecting them as unqualified without sound reasons. The certified vendor’s memberships in specific groups, organizations, or associations and political or social affiliations are not legitimate causes for the rejection or non-solicitation of bids in the Vendor’s efforts to meet the goal.
+
+Attachment NN - Minority, Female, Persons with Disability Participation and Utilization Plan <page_number>35</page_number>
+
+Page 62
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+7.14.6. Making efforts to assist interested certified vendors in obtaining lines of credit or insurance as required by the Agency, the Vendor or to perform the scope of work.
+
+7.14.7. Making efforts to assist interested certified vendors in obtaining necessary equipment, supplies, materials, or related assistance or services.
+
+7.14.8. Effectively using the services of available minority/women community organizations; minority/women vendors’ groups; local, state, and federal minority/women business assistance offices; and other organizations that provide assistance in the recruitment and placement of certified vendors.
+
+7.15. In evaluating the Vendor’s good faith efforts, the good faith efforts of other vendors to meet the goal on this solicitation or similar contracts may be considered.
+
+7.16. If the Agency determines that the Vendor has made good faith efforts to meet the goal, the Agency will award the contract provided that the Vendor is otherwise eligible for award.
+
+7.17. If the Agency determines that good faith efforts have not been made, it will notify the Vendor in writing of that determination.
+
+Contract Compliance: Compliance with this section is an essential part of the contract. The following administrative procedures and remedies govern the Vendor’s compliance with the contractual obligations established by the Utilization Plan. After approval of the Plan and award of the contract, the Utilization Plan becomes part of the contract. If the Vendor did not succeed in obtaining enough certified vendor participation to achieve the goal, and the Utilization Plan was approved and contract awarded based upon a determination of good faith, the total dollar value of certified vendor work calculated in the approved Utilization Plan as a percentage of the awarded contract value shall become the contract goal.
+8.1. The Utilization Plan may not be amended without the Agency’s prior written approval.
+
+8.2. The Vendor may not make changes to its contractual BEP certified vendor commitments or substitute BEP certified vendors without the prior written approval of the Agency. Unauthorized changes or substitutions, including performing the work designated for a certified vendor with the Vendor’s own forces, shall be a violation of the utilization plan and a breach of the contract, and shall be cause to terminate the contract, and/or seek other contract remedies or sanctions. The facts supporting the request for changes must not have been known nor reasonably should have been known by the parties prior to entering into the subcontract. The Vendor must negotiate with the certified vendor to resolve the problem. Where there has been a mistake or disagreement about the scope of work, the certified vendor can be substituted only where agreement cannot be reached for a reasonable price or schedule for the correct scope of work.
+
+8.3. Substitutions of a certified vendor shall be permitted under the following circumstances:
+
+8.3.1. Unavailability after receipt of reasonable notice to proceed;
+
+Attachment NN - Minority, Female, Persons with Disability Participation and Utilization Plan <page_number>36</page_number>
+
+Page 63
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+8.3.2. Failure of performance; 8.3.3. Financial incapacity; 8.3.4. Refusal by the certified vendor to honor the bid or proposal price or scope; 8.3.5. Material mistake of fact or law about the elements of the scope of work of a solicitation where a reasonable price cannot be agreed; 8.3.6. Failure of the certified vendor to meet insurance, licensing or bonding requirements; 8.3.7. The certified vendor's withdrawal of its bid or proposal; or 8.3.8. Decertification of the certified vendor.
+
+8.4. If it becomes necessary to substitute a certified vendor or otherwise change the Utilization Plan, the Vendor must notify the Agency in writing of the request to substitute a certified vendor or otherwise change the Utilization Plan. The request must state specific reasons for the substitution or change. The Agency will approve or deny a request for substitution or other change in the Utilization Plan within 5 business days of receipt of the request.
+
+8.5. Where the Vendor has established the basis for the substitution to the Agency's satisfaction, it must make good faith efforts to meet the contract goal by substituting a certified vendor. Documentation of a replacement vendor, or of good faith efforts to replace the certified vendor, must meet the requirements of the initial Utilization Plan. If the goal cannot be reached and good faith efforts have been made, the Vendor may substitute with a non-certified vendor.
+
+8.6. If a Vendor plans to hire a subcontractor for any scope of work that was not previously disclosed in the Utilization Plan, the Vendor must obtain the approval of the Agency to modify the Utilization Plan and must make good faith efforts to ensure that certified vendors have a fair opportunity to bid on the new scope of work.
+
+8.7. A new subcontract must be executed and submitted to the Agency within 5 business days of the Vendor's receipt of the Agency's approval for the substitution or other change.
+
+8.8. The Vendor shall maintain a record of all relevant data with respect to the utilization of certified vendors, including but without limitation, payroll records, invoices, canceled checks and books of account for a period of at least 5 years after the completion of the contract. Full access to these records shall be granted by the Vendor upon 48 hours written demand by the Agency to any duly authorized representative thereof, or to any municipal, state or federal authorities. The Agency shall have the right to obtain from the Vendor any additional data reasonably related or necessary to verify any representations by the Vendor. After the performance of the final item of work or delivery of material by a certified vendor and final payment to the certified vendor by the Vendor, but not later than 30 calendar days after such payment, the Vendor shall
+
+Attachment NN - Minority, Female, Persons with Disability Participation and Utilization Plan <page_number>37</page_number>
+
+Page 64
+MINORITY, FEMALE, PERSONS WITH DISABILITY STATUS PARTICIPATION AND UTILIZATION PLAN
+
+ATTACHMENT NN
+
+submit a statement confirming the final payment and the total payments made to the BEP vendor under the contract.
+
+8.9. The Agency will periodically review the Vendor’s compliance with these provisions and the terms of its contract. Without limitation, the Vendor’s failure to comply with these provisions or its contractual commitments as contained in the Utilization Plan, failure to cooperate in providing information regarding its compliance with these provisions or its Utilization Plan, or provision of false or misleading information or statements concerning compliance, certification status or eligibility of certified vendors, good faith efforts or any other material fact or representation shall constitute a material breach of this contract and entitle the Agency to declare a default, terminate the contract, or exercise those remedies provided for in the contract or at law or in equity.
+
+8.10. The Agency reserves the right to withhold payment to the Vendor to enforce these provisions and the Vendor’s contractual commitments. Final payment shall not be made on the contract until the Vendor submits sufficient documentation demonstrating compliance with its Utilization Plan
+
+Attachment NN - Minority, Female, Persons with Disability Participation and Utilization Plan <page_number>38</page_number>

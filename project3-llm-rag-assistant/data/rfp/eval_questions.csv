@@ -1,0 +1,7 @@
+question,expected_notes
+"What are the main technical requirements in this RFP?","Focus on solution architecture, integrations, SLAs, performance."
+"What are the key functional requirements and business processes covered?","Capture workflows, user roles, main features."
+"What non-functional requirements (security, availability, compliance) are specified?","Mention security certs, uptime, response times."
+"What are the major implementation/delivery risks mentioned or implied?","Look for timelines, dependencies, penalties."
+"What financial constraints, budget limits, or penalties are described?","Extract budgets, fee caps, liquidated damages."
+"Draft a high-level response outline for this RFP.","Structure: exec summary, solution, delivery, pricing, differentiators."

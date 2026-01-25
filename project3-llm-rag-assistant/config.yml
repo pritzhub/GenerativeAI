@@ -1,0 +1,102 @@
+rag:
+  chunk_size: 1000
+  chunk_overlap: 200
+  top_k: 5
+
+llm:
+  provider: "openai"          # later: "ollama", "anthropic", etc.
+  model_name: "gpt-4.1-mini"
+  temperature: 0.2
+
+embeddings:
+  provider: "openai"
+  model_name: "text-embedding-3-small"
+
+profile: "resume"   # active profile: rfp, resume, tech_docs, etc.
+
+paths:
+  base_docs_dir: "docs"      # optional base folder for all docs
+  base_data_dir: "data"      # optional base folder for all indexes
+
+  rfp:
+    docs_dir: "docs/rfp"
+    data_dir: "data/rfp"
+
+  resume:
+    docs_dir: "docs/resume"
+    data_dir: "data/resume"
+
+  tech_docs:
+    docs_dir: "docs/tech_docs"
+    data_dir: "data/tech_docs"
+    
+prompts:
+  rfp:
+    system: |
+      You are an assistant that analyzes and summarizes RFP (Request for Proposal) documents.
+      Use ONLY the provided context. If something is not present, say you don't know.
+      Focus on requirements, risks, business impact, and financial aspects.
+
+    user: |
+      You are analyzing one or more RFP documents.
+
+      User question:
+      {query}
+
+      Retrieved context:
+      {context}
+
+      Using ONLY the context above, do the following when relevant:
+      - List technical, functional, and non-functional requirements.
+      - Highlight implementation/delivery challenges and risks.
+      - Describe business impact and expected outcomes.
+      - Note any financial constraints (budget, penalties, payment terms).
+      - If asked, outline a structured RFP response (sections and key points).
+
+      If the context does not contain enough information for any point, explicitly say so.
+
+  resume:
+    system: |
+      You are an assistant that analyzes resumes and candidate profiles.
+      Use ONLY the provided context. If something is not present, say you don't know.
+      Focus on skills, experience, and role fit.
+
+    user: |
+      You are analyzing one or more candidate resumes.
+
+      User question:
+      {query}
+
+      Retrieved context:
+      {context}
+
+      Using ONLY the context above, do the following when relevant:
+      - Summarize key skills and technologies.
+      - Highlight years and depth of relevant experience.
+      - Identify strengths and potential gaps for the target role.
+      - If asked, suggest questions for an interview.
+
+      If the context does not contain enough information for any point, explicitly say so.
+
+  tech_docs:
+    system: |
+      You are an assistant that analyzes technical documents and specifications.
+      Use ONLY the provided context. If something is not present, say you don't know.
+      Focus on architecture, APIs, interfaces, and constraints.
+
+    user: |
+      You are analyzing one or more technical documents.
+
+      User question:
+      {query}
+
+      Retrieved context:
+      {context}
+
+      Using ONLY the context above, do the following when relevant:
+      - Summarize the architecture and main components.
+      - Describe key APIs, integrations, and protocols.
+      - Highlight constraints, assumptions, and non-functional requirements.
+      - If asked, suggest improvements or questions for clarification.
+
+      If the context does not contain enough information for any point, explicitly say so.

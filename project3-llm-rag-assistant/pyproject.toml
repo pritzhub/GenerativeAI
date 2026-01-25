@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project3-llm-rag-assistant"
+version = "0.1.0"
+description = "Profile-aware RAG backend for documents (RFPs, resumes, tech docs, etc.)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Pritpal Khanuja" }
+]
+
+# Runtime dependencies (you already installed these in your venv)
+dependencies = [
+  "openai",
+  "python-dotenv",
+  "pypdf",
+  "python-docx",
+  "pandas",
+  "numpy",
+  "pyarrow",
+  "fastparquet",
+  "PyYAML",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
