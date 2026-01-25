@@ -1,0 +1,8 @@
+.venv/
+venv/
+project3-llm-rag-assistant/.venv/
+project3-llm-rag-assistant/venv/
+__pycache__/
+project3-llm-rag-assistant/src/__pycache__/
+*.pyc
+.env
