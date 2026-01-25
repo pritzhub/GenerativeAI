@@ -1,0 +1,11 @@
+id,question,expected_keywords
+1,"What is the project scope described in this RFP?","scope;deliverables;objectives"
+2,"What is the expected implementation timeline?","timeline;milestones;dates"
+3,"What are the key technical requirements mentioned?","requirements;technical;specifications"
+4,"What are the mandatory compliance or certification requirements?","compliance;certification;mandatory"
+5,"What are the evaluation criteria for selecting a vendor?","evaluation criteria;scoring;weighting"
+6,"What are the main risks or challenges identified in the RFP?","risk;challenge;mitigation"
+7,"What are the support and maintenance expectations?","support;maintenance;service levels"
+8,"What pricing or cost structure does the RFP ask for?","pricing;cost;budget"
+9,"What are the key contractual or legal terms highlighted?","contract;legal;terms"
+10,"Who is the point of contact and what is the submission process?","contact;submission;deadline"
