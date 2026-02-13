@@ -12,7 +12,7 @@ embeddings:
   provider: "openai"
   model_name: "text-embedding-3-small"
 
-profile: "rfp"   # active profile: rfp, resume, tech_docs, etc.
+profile: "resume"   # active profile: rfp, resume, tech_docs, etc.
 
 paths:
   base_docs_dir: "docs"      # optional base folder for all docs

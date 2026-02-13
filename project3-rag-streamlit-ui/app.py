@@ -6,6 +6,12 @@ from pathlib import Path
 
 import streamlit as st
 
+# Paths
+APP_ROOT = Path(__file__).resolve().parent
+ASSETS_DIR = APP_ROOT / "assets"
+COMPANY_LOGO = ASSETS_DIR / "company_logo.png"
+SOLUTION_LOGO = ASSETS_DIR / "solution_logo.svg"
+
 # Adjust this path so it points to your core project root
 CORE_ROOT = Path(__file__).resolve().parents[1] / "project3-llm-rag-assistant"
 sys.path.append(str(CORE_ROOT))
@@ -21,15 +27,36 @@ from src.rag_query import load_index, retrieve_top_k, build_context, answer_quer
 from src.ingest import main as ingest_main  # reuse existing ingest CLI entry point
 
 
-st.set_page_config(page_title="RAG Assistant", layout="wide")
+# --- Page config: use company logo as favicon (top-left browser tab) ---
+st.set_page_config(
+    page_title="DocSense AI Assistant",
+    layout="wide",
+    page_icon=str(COMPANY_LOGO) if COMPANY_LOGO.exists() else None,  #page_icon does NOT support SVG reliably, so omit or use a small PNG if you want a favicon
+)
 
-st.title("Profile-aware RAG Assistant (Streamlit UI)")
+# --- Top layout: company logo (left) + solution logo (center) ---
+top_left, top_center, top_right = st.columns([1, 1, 3])
 
+with top_left:
+    if COMPANY_LOGO.exists():
+        st.image(str(COMPANY_LOGO), width=400)
+
+with top_center:
+    st.write("")  # spacer, keep empty or small text
+
+with top_right:
+    if SOLUTION_LOGO.exists():
+        st.image(str(SOLUTION_LOGO), width=300)
+
+
+
+st.title("DocSense AI Assistant")
 
 # --- Sidebar: profile & config view (read-only for now) ---
 st.sidebar.header("Profile & Config")
 
-current_profile = get_active_profile()
+current_profile = get_active_profile().upper()
+
 st.sidebar.markdown(f"**Active profile (from config.yml):** `{current_profile}`")
 
 rag_cfg = get_setting("rag", {})

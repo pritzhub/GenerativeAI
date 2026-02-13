@@ -1,0 +1,129 @@
+{
+  "id": "incident_001",
+  "profile": "rca",
+  "title": "INCIDENT_001 Title NEW & Latest",
+  "summary": "Incident_001 Short Summary",
+  "problem_statement": "Frequency spikes on PQM01 and PQM02 between 10:05–10:07 UTC caused trips on blocks 1 and 2.",
+  "created_at": "2026-01-27T03:51:11.752396Z",
+  "updated_at": "2026-02-11T17:07:38.690035Z",
+  "status": "draft",
+  "context": {
+    "environment": "prod",
+    "service": "PPC",
+    "region": "KSA",
+    "tags": [],
+    "extra": {}
+  },
+  "time_window": {
+    "start": null,
+    "end": null
+  },
+  "signals": [
+    {
+      "name": "Input sent to Master Core PPC (power plant controller) engine",
+      "description": "Input sent to Master Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/M_CoreInput.csv"
+    },
+    {
+      "name": "PQM01_MEASUREMENT",
+      "description": "Measurements at PQM(Point of Intersection) number 1",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/PQM01_MEASUREMENT.csv"
+    },
+    {
+      "name": "PQM02_MEASUREMENT",
+      "description": "Measurements at PQM(Point of Intersection) number 2",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/PQM02_MEASUREMENT.csv"
+    },
+    {
+      "name": "PQM03_MEASUREMENT",
+      "description": "Measurements at PQM(Point of Intersection) number 3",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/PQM03_MEASUREMENT.csv"
+    },
+    {
+      "name": "Input sent to Slave 1 Core PPC (power plant controller) engine",
+      "description": "Input sent to Slave 1 Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/S1_CoreInput.csv"
+    },
+    {
+      "name": "Output received from Slave 1 Core PPC (power plant controller) engine",
+      "description": "Output received from Slave 1 Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/S1_CoreOutput.csv"
+    },
+    {
+      "name": "Input sent to Slave 2 Core PPC (power plant controller) engine",
+      "description": "Input sent to Slave 2 Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/S2_CoreInput.csv"
+    },
+    {
+      "name": "Output received from Slave 2 Core PPC (power plant controller) engine",
+      "description": "Output received from Slave 2 Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/S2_CoreOutput.csv"
+    },
+    {
+      "name": "Input sent to Slave 3 Core PPC (power plant controller) engine",
+      "description": "Input sent to Slave 3 Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/S3_CoreInput.csv"
+    },
+    {
+      "name": "Output received from Slave 3 Core PPC (power plant controller) engine",
+      "description": "Output received from Slave 3 Core PPC (power plant controller) engine",
+      "unit": "various",
+      "source_type": "timeseries_csv",
+      "path": "artifacts/data/S3_CoreOutput.csv"
+    }
+  ],
+  "artifacts": {
+    "data_files": [
+      "artifacts/data/M_CoreInput.csv",
+      "artifacts/data/PQM01_MEASUREMENT.csv",
+      "artifacts/data/PQM02_MEASUREMENT.csv",
+      "artifacts/data/PQM03_MEASUREMENT.csv",
+      "artifacts/data/S1_CoreInput.csv",
+      "artifacts/data/S1_CoreOutput.csv",
+      "artifacts/data/S2_CoreInput.csv",
+      "artifacts/data/S2_CoreOutput.csv",
+      "artifacts/data/S3_CoreInput.csv",
+      "artifacts/data/S3_CoreOutput.csv"
+    ],
+    "documents": [
+      "RCA Projects Record 1 (Rass2).docx"
+    ],
+    "images": [],
+    "links": []
+  },
+  "hypotheses": [],
+  "report_template": "default_report",
+  "llm_prompts": {
+    "analysis_instructions": "This incident is for Power Plant Controller (PPC). Focus on correlating PQM measurement, PPC Master & slaves core input and output, and error codes, and explain likely cause of the problem.",
+    "tone": "Formal, suitable for a customer-facing incident report.",
+    "constraints": "Avoid internal hostnames and customer names. Limit main narrative to ~600 words.",
+    "extra": {
+      "sections_to_emphasize": "Core Master data, Core slaves data, PQM measurements "
+    }
+  },
+  "labels": [],
+  "metadata": {
+    "created_by": "k_pritpal@yahoo.com",
+    "severity": null,
+    "customer_impact": null,
+    "extra": {}
+  }
+}

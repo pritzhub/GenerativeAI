@@ -1,0 +1,42 @@
+app:
+  name: CausalityIQ
+  environment: dev
+
+llm:
+  provider: openai        # later: anthropic, azure, local, etc.
+  models:
+    analysis: gpt-4.1-mini
+    summarization: gpt-4o-mini
+    embedding: text-embedding-3-small
+  params:
+    temperature: 0.2
+    max_tokens: 2000
+    timeout_seconds: 60
+
+storage:
+  base_data_dir: ./data
+  users_subdir: users
+
+workflows:
+  default_analysis_flow: standard_analysis_v1
+
+templates:
+  default_report:
+    sections:
+      - overview
+      - timeline
+      - contributing_factors
+      - conclusions
+      - actions
+
+# New flag to control LLM prompt logging
+debug_log_llm_prompts: true
+
+logging:
+  level: INFO              # DEBUG, INFO, WARNING, ERROR
+  file: ./logs/causalityiq.log
+  rotation:
+    enabled: true
+    max_bytes: 1048576     # 1 MB
+    backup_count: 15
+    encoding: utf-8

@@ -1,0 +1,4 @@
+pip install pydantic pyyaml
+pip install langgraph openai
+pip install python-docx
+pip install pandas
