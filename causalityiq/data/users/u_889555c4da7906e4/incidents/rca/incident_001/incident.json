@@ -5,7 +5,7 @@
   "summary": "Incident_001 Short Summary",
   "problem_statement": "Frequency spikes on PQM01 and PQM02 between 10:05–10:07 UTC caused trips on blocks 1 and 2.",
   "created_at": "2026-01-27T03:51:11.752396Z",
-  "updated_at": "2026-02-11T17:07:38.690035Z",
+  "updated_at": "2026-02-13T04:24:30.859010Z",
   "status": "draft",
   "context": {
     "environment": "prod",

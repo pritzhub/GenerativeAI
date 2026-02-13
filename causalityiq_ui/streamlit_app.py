@@ -58,7 +58,36 @@ def list_incidents(email: str, profile: str) -> List[str]:
 # ---------- Streamlit app ----------
 
 def main():
-    st.title("CausalityIQ – RCA UI (interim)")
+    
+    # Paths
+    APP_ROOT = Path(__file__).resolve().parent
+    ASSETS_DIR = APP_ROOT / "assets"
+    COMPANY_LOGO = ASSETS_DIR / "company_logo.png"
+    SOLUTION_LOGO = ASSETS_DIR / "solution_logo.svg"
+    
+    # --- Page config: use company logo as favicon (top-left browser tab) ---
+    st.set_page_config(
+        page_title="CausalityIQ AI Assistant",
+        layout="wide",
+        page_icon=str(COMPANY_LOGO) if COMPANY_LOGO.exists() else None,  #page_icon does NOT support SVG reliably, so omit or use a small PNG if you want a favicon
+    )
+
+    # --- Top layout: company logo (left) + solution logo (center) ---
+    top_left, top_center, top_right = st.columns([1, 2, 3])
+
+    with top_left:
+        if COMPANY_LOGO.exists():
+            st.image(str(COMPANY_LOGO), width=550)
+
+    with top_center:
+        st.write("")  # spacer, keep empty or small text
+
+    with top_right:
+        if SOLUTION_LOGO.exists():
+            st.image(str(SOLUTION_LOGO), width=300)
+    st.markdown("---")
+
+    st.title("CausalityIQ – AI Assistant")
 
     # Identity & profile
     email = st.text_input("Your email", value="")  # no default
