@@ -1,4 +1,6 @@
-pip install pydantic pyyaml
-pip install langgraph openai
-pip install python-docx
-pip install pandas
+pydantic==2.12.5
+pyyaml==6.0.3
+langgraph==1.0.7
+openai==2.15.0
+python-docx==1.2.0
+pandas==3.0.0
